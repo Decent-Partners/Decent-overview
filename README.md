@@ -1,3 +1,5 @@
+![Decent](https://github.com/Decent-Partners/decent-overview/blob/main/decent.png)
+
 Decent
 -------------------
 
