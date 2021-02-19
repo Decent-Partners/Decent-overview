@@ -4,11 +4,19 @@ Decent
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+_Decent_ operates as a curation DAO - a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+
+Core components include: 
+
+- an open protocol for creator owned marketplaces.
+- backend API.
+- network of curators and creators.
+- interfaces and experiences.
+- media and editorial.
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
-Partners are funded directly via proposals ("the proposals") from the cooperative's _Web3 Media Fund_ ("the fund").
+Partners are funded directly via proposals ("the proposals") from the cooperative's _Web3 Media Fund_ ("the fund"). 
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
@@ -22,7 +30,7 @@ Existing partners vote to approve or reject proposals from prospective partners.
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become full partners.
 
-Partners govern the cooperative and will eventually be granted shared ownership in it too.   
+Partners govern the cooperative and will eventually be granted shared ownership in it too. 
 
 -------------------
 ### Requirements
