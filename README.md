@@ -24,9 +24,8 @@ When a prospective partner successfully delivers a proposal as judged by their p
 
 Partners govern the cooperative and will eventually be granted shared ownership in it too aligned with contributions.   
 
--------------------
 
-h2 Decent
+Decent
 -------------------
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
