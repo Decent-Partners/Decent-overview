@@ -1,4 +1,4 @@
-Decent-Requirements
+Decent
 -------------------
 
 ### Overview
@@ -25,6 +25,8 @@ When a prospective partner successfully delivers a proposal as judged by their p
 Partners govern the cooperative and will eventually be granted shared ownership in it too aligned with contributions.   
 
 -------------------
+
+Decent-Requirements
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
