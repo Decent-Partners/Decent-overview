@@ -173,7 +173,8 @@ Partners
 ### MARKET
 
 Partners
-**MUST** be in the position to recommend which data should or should not be exposed externally.
+**MUST** 
+- be in the position to recommend which data should or should not be exposed externally.
 
 Partners
 **SHOULD**
@@ -183,7 +184,8 @@ Partners
 - engage in periodic assessment of the categories of risk and update any related automation.
 
 Partners
-**COULD** support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
+**COULD** 
+- support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
 
 ### MARKETPLACE FEES
 
@@ -235,8 +237,10 @@ Partners
 - support a number of substrate chains
 
 Partners 
-**SHOULD** demonstrate and document (via official documentation and blogposts) the simple integration and composability of the API with the UI components on representative use cases (e.g. softspot, zora etc..)
-**COULD** support a number of non substrate chains
+**SHOULD** 
+- demonstrate and document (via official documentation and blogposts) the simple integration and composability of the API with the UI components on representative use cases (e.g. softspot, zora etc..)
+**COULD** 
+- support a number of non substrate chains
 
 ### INTEROPERABILITY
 
@@ -267,7 +271,8 @@ Partners
 - enable full stack Web3 media entities ("creative networks").
 
 Partners
-**SHOULD** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
+**SHOULD** 
+- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 
 ### CREATIVE NETWORKS 
 
@@ -288,12 +293,14 @@ Creative Networks
 - interoperate with existing legal entities and contracts. 
 - enable the efficient, transparent and cost-effective re-distribution of profits to rightholders in the underlying creative assets.
 
-**COULD** be profitably licensed by 3rd party media entities, services or organisations. 
+**COULD** 
+- be profitably licensed by 3rd party media entities, services or organisations. 
 
 ### APPS,INTERFACES & EXPERIENCES
 
 Partners
-**MUST** develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
+**MUST** 
+- develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
 
 Partners
 **COULD**
@@ -329,10 +336,12 @@ The BI team
 - activate a series of clustering techniques to identify unexpected patterns in data
 
 The BI team
-**COULD** produce a risk management tool for the partners and affiliates organisations
+**COULD** 
+- produce a risk management tool for the partners and affiliates organisations
 
 Partners 
-**MUST** collectively agree on a series of valuable business metrics that can be derived from the collected data
+**MUST** 
+- collectively agree on a series of valuable business metrics that can be derived from the collected data
 
 Partners
 **SHOULD**
