@@ -2,7 +2,7 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+_Decent_ operates as a digital cooperative organisation ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
@@ -10,11 +10,13 @@ Partners are funded directly via proposals ("the proposals") from the cooperativ
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
+The fund is initially managed via a founding partners ("the council") via an n of m multisig. 
+
+The cooperative is managed initially by partners using the [Commonwealth interface](commonwealth.im/decent). 
+
 Proposals return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
 
 Contributions form the foundation of the fund's underlying value ("the reserve"). 
-
-The fund is initially managed via a founding cooperative partners ("the council") via an n of m multisig. 
 
 Existing partners vote to approve or reject proposals from prospective partners. 
 
