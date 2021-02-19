@@ -26,7 +26,8 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 
 -------------------
 
-Decent-Requirements
+h2 Decent
+-------------------
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
