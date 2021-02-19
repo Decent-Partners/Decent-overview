@@ -12,7 +12,7 @@ The fund is initially drawn from public goods focused chain treasuries with wide
 
 The fund is initially managed by founding partners ("the council") via an n of m multisig. 
 
-The cooperative is managed though the [Commonwealth interface](commonwealth.im/decent). 
+The cooperative is managed initially though the [Commonwealth interface](commonwealth.im/decent). 
 
 Proposals return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
 
