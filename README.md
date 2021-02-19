@@ -10,9 +10,7 @@ Partners are funded directly via proposals ("the proposals") from the cooperativ
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
-The fund is initially managed by founding partners ("the council") via an n of m multisig. 
-
-The cooperative is managed initially though the [Commonwealth interface](commonwealth.im/decent). 
+The fund is initially managed by founding partners ("the council") via an n of m multisig and the [Commonwealth interface](commonwealth.im/decent). 
 
 Proposals return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
 
