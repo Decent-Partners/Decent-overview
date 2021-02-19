@@ -102,7 +102,7 @@ Contributions
 
 **COULD**
 - operate initially via an implementation of [Commonwealth](https://commonwealth.im)
-- develop her own governance, forum and proposal systems.
+- develop its own governance, forum and proposal systems.
 
 ### SUB DAOS
 
