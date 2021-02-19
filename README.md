@@ -4,7 +4,7 @@ Decent
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
