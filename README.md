@@ -20,7 +20,7 @@ Existing partners vote to approve or reject proposals from prospective partners.
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become full partners.
 
-Partners govern the cooperative and will eventually be granted shared ownership in it too aligned with contributions.   
+Partners govern the cooperative and will eventually be granted shared ownership in it too.   
 
 -------------------
 ### Requirements
