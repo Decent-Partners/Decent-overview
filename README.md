@@ -8,7 +8,8 @@ _Decent_ operates as a curation DAO - a digital cooperative ("the cooperative") 
 
 Core components include: 
 
-- an open protocol for creator owned marketplaces.
+- public fund
+- open protocol for creator owned marketplaces.
 - backend API.
 - network of curators and creators.
 - interfaces and experiences.
