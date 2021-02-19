@@ -2,18 +2,29 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a full stack Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo. ("the mission").
-Partners are funded directly via commissions ("the commissions") from the cooperative's _Web3 Media Fund_ ("the fund"). 
-The fund is initially drawn from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
-Partners return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
+Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
+
+Partners are funded directly via proposals ("the proposals") from the cooperative's _Web3 Media Fund_ ("the fund").
+
+The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
+
+Proposals return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
 
 Contributions form the foundation of the fund's underlying value ("the reserve"). 
 
+The fund is initially managed via a founding cooperative partners ("the council") via an n of m multisig. 
+
+Existing partners vote to approve or reject proposals from prospective partners. 
+
+When a prospective partner successfully delivers a proposal as judged by their peers, they are rewarded with full partner status. 
+
+Partners govern the cooperative and will eventually be granted shared ownership in it too aligned with contributions.   
+
 -------------------
 
-The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
+The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
 Where conflicts arise **VALUES** will take precedence. 
@@ -48,7 +59,7 @@ Where conflicts arise **VALUES** will take precedence.
 - utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
 - receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
 
-### COMMISSIONS
+### PROJECTS
 
 **MUST**
 - align with the mission and constitution.
@@ -205,7 +216,6 @@ Partners
 - evangelise and influence popular marketplaces to embrace our API
 - act as a consultancy to onboard organisation on our API
 - offer a line of support to organisation integrated with our API
-
 
 ### BACKEND API
 
