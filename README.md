@@ -91,20 +91,20 @@ Contributions
 
 **COULD** be used as backing for the launch of a token distributed to partners in line with contributions. 
 
-### MOTHER DAO
+### DECENT DAO
 
 **MUST**
 - be governed by nominated partners who together represent the contributing workers of the cooperative.
 - develop governance systems that can be operated by technically competent and novice users alike.
 - develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants.
 - utilise NFTs to assign on-chain achievements, memberships and reputation of partners.
-- be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("Daughter DAOs") 
+- be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("subDAOs") 
 
 **COULD**
 - operate initially via an implementation of [Commonwealth](https://commonwealth.im)
 - develop her own governance, forum and proposal systems.
 
-### DAUGHTER DAOS
+### SUB DAOS
 
 **MUST** enable 
 - funded partners to receive, manage and track grants in a simple, secure and intuitive UI
