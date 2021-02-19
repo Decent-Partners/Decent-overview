@@ -8,12 +8,13 @@ _Decent_ operates as a curation DAO - a digital cooperative ("the cooperative") 
 
 Core components include: 
 
-- public fund
+- public funding
+- community proposal system
 - open protocol for creator owned marketplaces.
 - backend API.
 - network of curators and creators.
 - interfaces and experiences.
-- media and editorial.
+- original media and editorial.
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
