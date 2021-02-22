@@ -40,6 +40,20 @@ When a prospective partner successfully delivers a proposal as judged by their p
 Partners govern the cooperative and will eventually be granted shared ownership in line with contributions via the issuance of a community token backed by the reserve. 
 
 -------------------
+### Partners
+
+- [Edgeware](https://edgewa.re): Fairly distributed smart contract chain in the Polkadot ecosystem. 
+- [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
+- [Lemonade Money](https://lemonademoney.tv): Creative studio, busy building worlds. 
+- [Everknow](https://everknow.it): Next generation smart contracts
+- [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
+- [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
+- [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
+- [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space. 
+- [Auto Fabrica](https://autofabrica.com): A multidisciplinary mobility design collective.  
+- [Weapons of Reason](https://weaponsofreason.com): Making it easier to understand complex global issues.
+
+-------------------
 ### Requirements
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
