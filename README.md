@@ -10,7 +10,8 @@ Together they form a Curation DAO (Distributed Autonomous Organisation) with a p
 
 Core components include: 
 
-- public fund seeded by chain treasuries
+1. Constitution
+2. public fund seeded by chain treasuries
 - curation DAO (distributed autonomous organisation)
 - community proposal system
 - open protocol for creator owned marketplaces
