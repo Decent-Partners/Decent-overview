@@ -11,14 +11,15 @@ Together they form a Curation DAO (Distributed Autonomous Organisation) with a p
 Core components include: 
 
 1. Constitution
-2. public fund seeded by chain treasuries
-- curation DAO (distributed autonomous organisation)
-- community proposal system
-- open protocol for creator owned marketplaces
-- backend API
-- global network of curators and creators
-- original media and editorial
-- interfaces and experiences
+2. Curation DAO (distributed autonomous organisation)
+3. Public fund 
+4. Community proposals
+5. Reserve of assets
+6. Open protocol for creator owned marketplaces
+7. Backend API
+8. Global network of curators and creators
+9. Original media and editorial
+10. Interfaces and experiences
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
@@ -46,7 +47,7 @@ The idea is to keep the requirements in the present form on Github, so that ever
 
 Where conflicts arise **VALUES** will take precedence. 
 
-### VALUES of the cooperative
+### 1. CONSTITUTION of the cooperative
 
 **MUST**    
 - be operated as a publicly owned and accessible entity.
@@ -57,7 +58,34 @@ Where conflicts arise **VALUES** will take precedence.
 
 **SHOULD** prioritise long term thinking over short-term opportunities.
 
-### FUND
+### 2. CURATION DAO
+
+**MUST**
+- be governed by nominated partners who together represent the contributing workers of the cooperative.
+- develop governance systems that can be operated by technically competent and novice users alike.
+- develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants.
+- utilise NFTs to assign on-chain achievements, memberships and reputation of partners.
+- be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("subDAOs") 
+- enable funded partners to receive, manage and track grants in a simple, secure and intuitive UI
+- enable partners to hold cross-chain crypto-assets, including currencies and NFTs.
+- enable partners to connect with the existing financial system via fiat gateways.  
+
+**COULD**
+- operate initially via an implementation of [Commonwealth](https://commonwealth.im)
+- develop its own governance, forum and proposal systems.
+
+**MUST** enable 
+- funded partners to receive, manage and track grants in a simple, secure and intuitive UI
+- partners to hold cross-chain crypto-assets, including currencies and NFTs.
+- partners to connect with the existing financial system via fiat gateways.     
+
+**SHOULD** enable partners to connect with:
+- defi protocols to manage their finances. 
+- the existing legal system via legal contract bridges. 
+
+**COULD** enable partners to display their memberships, achievements and reputation easily.
+
+### 3.PUBLIC FUND
 
 **MUST**
 - be operated as a publicly owned and operated entity.
@@ -76,60 +104,27 @@ Where conflicts arise **VALUES** will take precedence.
 - utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
 - receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
 
-### PROJECTS
+### 4. COMMUNITY PROPOSALS
 
 **MUST**
-- align with the mission and constitution.
 - be open to anyone, anywhere. 
 - be approved by the cooperative.
 - be in return for contributions. 
-
-### CONTRIBUTIONS
-
-Partners 
+ 
 **MUST** assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
 
-Partners
 **SHOULD**
 - ensure that the contributions are liquid assets.
 - ensure that where the contributions are not liquid, that there is provision for this. 
+- pool contributions into the fund's reserves.
 
-Contributions 
-**SHOULD** be pooled into the fund's reserves.
-
-### RESERVE
+### RESERVE OF ASSETS
 
 **MUST**
 - consist of contributions from partners.
 - be managed so as to ensure long term sustainability, transparency and viability of the ecosystem.
 
 **COULD** be used as backing for the launch of a token distributed to partners in line with contributions. 
-
-### DECENT DAO
-
-**MUST**
-- be governed by nominated partners who together represent the contributing workers of the cooperative.
-- develop governance systems that can be operated by technically competent and novice users alike.
-- develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants.
-- utilise NFTs to assign on-chain achievements, memberships and reputation of partners.
-- be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("subDAOs") 
-
-**COULD**
-- operate initially via an implementation of [Commonwealth](https://commonwealth.im)
-- develop its own governance, forum and proposal systems.
-
-### SUB DAOS
-
-**MUST** enable 
-- funded partners to receive, manage and track grants in a simple, secure and intuitive UI
-- partners to hold cross-chain crypto-assets, including currencies and NFTs.
-- partners to connect with the existing financial system via fiat gateways.     
-
-**SHOULD** enable partners to connect with:
-- defi protocols to manage their finances. 
-- the existing legal system via legal contract bridges. 
-
-**COULD** enable partners to display their memberships, achievements and reputation easily.
 
 ### CREATIVE ASSETS
 
@@ -187,7 +182,7 @@ Partners
 - trade its tokens on third party exchanges.
 - engage in promotional distribution strategies to drive adoption of its tokens.
 
-### MARKET
+### Open protocol for creator owned marketplaces
 
 Partners
 **MUST** 
@@ -203,8 +198,6 @@ Partners
 Partners
 **COULD** 
 - support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
-
-### MARKETPLACE FEES
 
 Partners 
 **MUST** 
