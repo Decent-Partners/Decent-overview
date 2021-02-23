@@ -6,9 +6,9 @@ Decent
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
 
-Together these elements form the basic functions of a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)) whose primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+Together these elements form the basic functions of Decent as a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)) whose primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking.
+Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
 
 Partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
 
@@ -46,25 +46,29 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
-Key areas: 
+Key areas of focus: 
 
-1. Constitution
-2. Curation DAO (distributed autonomous organisation)
+1. Cooperative values
+2. Curation DAO 
 3. Public fund 
 4. Community proposals
-5. Reserve of assets
-6. Open protocol for creator owned marketplaces
-7. Backend API
-8. Global network of curators and creators
-9. Original media and editorial
-10. Interfaces and experiences
+5. Creative assets
+6. Reserve 
+7. Creator owned marketplaces
+8. Marketplace and Backend API
+9. Interoperability
+10. Community networks
+11. Community rights
+12. Original media and editorial
+13. Apps, Interfaces & Experiences
+14. Research & Development
 
 Where conflicts arise **VALUES** will take precedence. 
 
-### 1. CONSTITUTION of the cooperative
+### 1. COOPERATIVE VALUES
 
-**MUST**    
-- be operated as a publicly owned and accessible entity.
+**MUST** 
+- sustain as a publicly owned, operated and accessible entity.
 - be sustainably, transparently and independently funded.
 - make all code open source and auditable.
 - develop and iterate a binding constitution ("the constitution") that partners operate under.
@@ -72,7 +76,7 @@ Where conflicts arise **VALUES** will take precedence.
 
 **SHOULD** prioritise long term thinking over short-term opportunities.
 
-### 2. CURATION DAO
+### 2. DECENT DAO
 
 **MUST**
 - be governed by nominated partners who together represent the contributing workers of the cooperative.
@@ -82,22 +86,14 @@ Where conflicts arise **VALUES** will take precedence.
 - be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("subDAOs") 
 - enable funded partners to receive, manage and track grants in a simple, secure and intuitive UI
 - enable partners to hold cross-chain crypto-assets, including currencies and NFTs.
-- enable partners to connect with the existing financial system via fiat gateways.  
+- enable partners to connect on and off with the existing financial system via fiat gateways.     
 
-**COULD**
+**SHOULD**
+- enable partners to display their memberships, achievements and reputation easily.
 - operate initially via an implementation of [Commonwealth](https://commonwealth.im)
 - develop its own governance, forum and proposal systems.
-
-**MUST** enable 
-- funded partners to receive, manage and track grants in a simple, secure and intuitive UI
-- partners to hold cross-chain crypto-assets, including currencies and NFTs.
-- partners to connect with the existing financial system via fiat gateways.     
-
-**SHOULD** enable partners to connect with:
 - defi protocols to manage their finances. 
-- the existing legal system via legal contract bridges. 
-
-**COULD** enable partners to display their memberships, achievements and reputation easily.
+- interface with the existing legal system via legal contract bridges. 
 
 ### 3.PUBLIC FUND
 
@@ -122,25 +118,15 @@ Where conflicts arise **VALUES** will take precedence.
 
 **MUST**
 - be open to anyone, anywhere. 
-- be approved by the cooperative.
-- be in return for contributions. 
- 
-**MUST** assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
+- be approved by the partners. 
+- assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
+- report transparently and timely on the progress and spending of proposals.
 
 **SHOULD**
 - ensure that the contributions are liquid assets.
 - ensure that where the contributions are not liquid, that there is provision for this. 
-- pool contributions into the fund's reserves.
 
-### RESERVE OF ASSETS
-
-**MUST**
-- consist of contributions from partners.
-- be managed so as to ensure long term sustainability, transparency and viability of the ecosystem.
-
-**COULD** be used as backing for the launch of a token distributed to partners in line with contributions. 
-
-### CREATIVE ASSETS
+### 5. CREATIVE ASSETS
 
 Partners 
 **MUST**
@@ -164,39 +150,28 @@ Partners
 - open up to parallel third party curatorial committees that wish to also support creative projects.
 - support directly the funding of creative assets linked to legal titles ("creative asset securities"). 
 
-### CURATORS
+### 6. RESERVE
 
-Partners 
 **MUST**
-- develop a network of specialist creative asset curators ("curators") lead by MoCDA's curators' example.
-- form a committee of curators who participate in the selection of creative assets to fund.
-- produce a manifesto of principles the curators vow to adhere to, in order to remain impartial in its influence ("the manifesto").
-- produce a series of measurable metrics to objectively verify divergence from the principles.
-- produce a series of measurable metrics to verify the influence the curatorial actions had on the market.
-- implement a scoring mechanism based on market metrics, every participant starts with a score that then fluctuates. 
-- drive collectively the periodic review of the principles and metrics via a DAO democratic process based on score.
+- consist of contributions from partners.
+- be managed so as to ensure long term sustainability, transparency and viability of the ecosystem.
+- be managed securely and openly with regular reporting / audit that ensures public accountability. 
 
-Partners
-**COULD**
-- accept external input from a selected number of social and market sources.
-- drive collectively the periodic whitelisting and weight of the external sources.
+**COULD** 
+- be used as backing for the launch of a token distributed to partners in line with either past or ongoing ontribution.
 
-### CREATIVE COLLATERAL
+### 7. CREATOR OWNED MARKETPLACES
 
 Partners 
-**SHOULD** implement defi solutions for:
-- loans, backed by creative assets ("creative collateral") to enable additional sales.
-- speculation over a creative asset.
-- indexes of creative assets.
-- implement a risk management solution to provision for mitigations.
+**MUST** 
+- ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and      redistributes them accordingly.
+- implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
 
 Partners
-**COULD**
-- support preferential trading with Edgeware and any chain within the partners sphere of influence.
-- trade its tokens on third party exchanges.
-- engage in promotional distribution strategies to drive adoption of its tokens.
-
-### Open protocol for creator owned marketplaces
+**SHOULD**
+- implement configurable and flexible smart contract to embrace a variety of use cases.
+- refer to acquired know how in this scope, to test the adaptability of the contracts.
+- educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or even better at creation time.
 
 Partners
 **MUST** 
@@ -213,18 +188,7 @@ Partners
 **COULD** 
 - support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
 
-Partners 
-**MUST** 
-- ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and      redistributes them accordingly.
-- implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
-
-Partners
-**SHOULD**
-- implement configurable and flexible smart contract to embrace a variety of use cases.
-- refer to acquired know how in this scope, to test the adaptability of the contracts.
-- educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or even better at creation time.
-
-### MARKETPLACE API
+### 8. MARKETPLACE & BACKEND API
 
 **MUST**
 - produce a comprehensive collection of UI widgets and components to be customised by customers to enable their market place.
@@ -242,8 +206,6 @@ Partners
 - evangelise and influence popular marketplaces to embrace our API
 - act as a consultancy to onboard organisation on our API
 - offer a line of support to organisation integrated with our API
-
-### BACKEND API
 
 **MUST** expose a simple REST/GraphQL api
 **MUST** support:
@@ -266,7 +228,7 @@ Partners
 **COULD** 
 - support a number of non substrate chains
 
-### INTEROPERABILITY
+### 9. INTEROPERABILITY
 
 Partners 
 **MUST**
@@ -287,100 +249,95 @@ Partners
 - produce a tool to support cross chain identity profiling for poular chains (DIDs could inspire this work)
 - extend a graph indexing facility to operate cross chain for popular chains
 
-### FULL STACK
-
-Partners 
-**MUST**
-- research, define and document the key components of full stack Web3 media (e.g. NFTs, storage, streaming, identity, reputation)
-- enable full stack Web3 media entities ("creative networks").
-
-Partners
-**SHOULD** 
-- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
-
-### CREATIVE NETWORKS 
+### 10. COMMUNITY NETWORKS
 
 Partners 
 **SHOULD**
 - develop creative networks with entities such as MoCDA, FTTF, New-Futures, Auto Fabrica, Weapons of Reason.
-- prioritise development of emerging talent and ideas over more established or 'mainstream' talent.
+- prioritise long term development of emerging talent and ideas over more established or 'mainstream' talent.
 
-Creative Networks 
 **SHOULD**
 - enable artists, creators and organisations to easily fund, govern and manage their own entities.
 - enable creative assets to be packaged into higher order entities ("community IP"). 
 
-### COMMUNITY IP 
+Partners 
+**SHOULD** implement defi solutions for:
+- loans, backed by creative assets ("creative collateral") to enable additional sales.
+- speculation over a creative asset.
+- indexes of creative assets.
+- implement a risk management solution to provision for mitigations.
+
+Partners
+**COULD**
+- support preferential trading with Edgeware and any chain within the partners sphere of influence.
+- trade its tokens on third party exchanges.
+- engage in promotional distribution strategies to drive adoption of its tokens.
+
+### 11. COMMUNITY RIGHTS 
 
 **SHOULD**
 - be researched, defined and documented as a new form of collective rights management that empowers digital creators.
 - interoperate with existing legal entities and contracts. 
-- enable the efficient, transparent and cost-effective re-distribution of profits to rightholders in the underlying creative assets.
+- enable the efficient, transparent and cost-effective re-distribution of profits to community rights-holders in the underlying creative assets.
 
 **COULD** 
 - be profitably licensed by 3rd party media entities, services or organisations. 
 
-### APPS,INTERFACES & EXPERIENCES
+### 12. ORIGINAL MEDIA & EDITORIAL
 
 Partners
+**SHOULD** 
+- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
+- develop and share media content across multiple social channels, networks, press & media to promote our activities globally.
+- address any opportunities and/or challenges on a monthly base with the wider collective. 
+
+### 13. APPS,INTERFACES & EXPERIENCES
+
 **MUST** 
 - develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
 
-Partners
 **COULD**
 - create a service that aggregates the output of all creative networks through a globally accessible service.
 - develop a publicly owned, operated and accessible Web3 media streaming service. 
 
-### BUSINESS DEVELOPMENT
+### 14. RESEARCH & DEVELOPMENT
 
 Partners 
 **MUST**
 - develop partnerships and relationships to further the mission. 
 - define KPIs to track the success of any partnerships and relationships.
-- develop a suistainable cycle to sustain the content creation, art curation and NFT market ecosystem based on the outlined model in this proposal.
-- review the business model every three months.              
-
-Partners
-**SHOULD**
-- develop and share media content across multiple social channels, networks, press & media to promote our activities globally.
-- address any opportunities and/or challenges on a monthly base with the wider collective. 
-
-### BUSINESS INTELLIGENCE
-
-The BI team 
-**MUST**
-- define a series of metrics to collect from the various APIs and services
-- collect information from social media 
-- define a series of heuristics to activate on top of the collected data to infer business metrics
-
-The BI team
-**SHOULD**
-- shape the analytics backend traversals over graph indices
-- produce a series of reports and graphical representation of the acquired data and business metrics
-- activate a series of clustering techniques to identify unexpected patterns in data
-
-The BI team
-**COULD** 
-- produce a risk management tool for the partners and affiliates organisations
-
-Partners 
-**MUST** 
-- collectively agree on a series of valuable business metrics that can be derived from the collected data
-
-Partners
-**SHOULD**
-- produce a risk profile associated to NFTs
-- produce a risk profile associated to collectors and investors
-
-### RESEARCH & DEVELOPMENT
+- review and report on progress every three months. 
 - Async composability model
 - Customisable Smart Contracts
 - Foreign Technology (Haskell, C)
 - Identity and metadata access
 - Content Streaming
-- Scalability and parallelism
+- Scalability and parallelism 
 
-### USE CASES
+### 15. COLLECTIVE INTELLIGENCE
+
+Partners 
+**MUST**
+- research, define and document the key components of full stack Web3 media (e.g. NFTs, storage, streaming, identity, reputation)
+- agree on a series of valuable community metrics that can be derived from the collected data
+- define a series of metrics to collect from the various APIs and services
+- collect information from social media 
+- define a series of heuristics to activate on top of the collected data to infer community metrics
+
+**SHOULD**
+- shape the analytics backend traversals over graph indices
+- produce a series of reports and graphical representation of the acquired data and business metrics
+- activate a series of clustering techniques to identify unexpected patterns in data
+
+**COULD** 
+- produce a risk management tool for the partners and affiliates organisations
+
+**SHOULD**
+- produce a risk profile associated to NFTs
+- produce a risk profile associated to collectors and investors
+
+
+### USE CASES ???
 
 - [Business intelligence - art anayltics](art-analytics-use-case.md)
 
