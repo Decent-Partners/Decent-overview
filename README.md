@@ -63,7 +63,7 @@ Key areas of focus:
 13. Apps, Interfaces & Experiences
 14. Research & Development
 
-Where conflicts arise **VALUES** will take precedence. 
+_N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._ 
 
 ### 1. COOPERATIVE VALUES
 
