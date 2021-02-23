@@ -74,7 +74,8 @@ _N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._
 - develop and iterate a binding constitution ("the constitution") that partners operate under.
 - ensure that new partners can join and also leave easily. 
 
-**SHOULD** prioritise long term thinking over short-term opportunities.
+**SHOULD** 
+- prioritise long term thinking over short-term opportunities.
 
 ### 2. DECENT DAO
 
@@ -117,10 +118,12 @@ _N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._
 ### 4. COMMUNITY PROPOSALS
 
 **MUST**
+- be submitted through an open and intuitive interface 
+- be auditable and tamper resistant 
 - be open to anyone, anywhere. 
 - be approved by the partners. 
 - assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
-- report transparently and timely on the progress and spending of proposals.
+- require the transparent and timely reporting on the progress and spending.
 
 **SHOULD**
 - ensure that the contributions are liquid assets.
