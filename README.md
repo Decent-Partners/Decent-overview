@@ -29,7 +29,7 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 -------------------
 ### Partners
 
-- [Edgeware](https://edgewa.re): Fairly launched smart contract chain and community fund in the Polkadot ecosystem. 
+- [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
 - [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
 - [Lemonade Money](https://lemonademoney.tv): Creative studio at the intersection of changing culture. Busy building worlds. 
