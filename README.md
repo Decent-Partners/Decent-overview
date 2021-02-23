@@ -41,6 +41,7 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 - [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space. 
 - [Auto Fabrica](https://autofabrica.com): A multidisciplinary mobility design collective.  
 - [Weapons of Reason](https://weaponsofreason.com): Making it easier to understand complex global issues.
+- [Maia Pictures] (https://maia.pictures): Nurturing the next generation of writing talent. 
 
 -------------------
 ### Requirements
