@@ -6,20 +6,7 @@ Decent
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") who pool and manage a common pool of shared resources including a dedicated Web3 media fund ("the fund"). 
 
-Together they form a Curation DAO (Distributed Autonomous Organisation) with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
-
-Core components include: 
-
-1. Constitution
-2. Curation DAO (distributed autonomous organisation)
-3. Public fund 
-4. Community proposals
-5. Reserve of assets
-6. Open protocol for creator owned marketplaces
-7. Backend API
-8. Global network of curators and creators
-9. Original media and editorial
-10. Interfaces and experiences
+Together these elements form the foundations of a Curation DAO (Distributed Autonomous Organisation) with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
 Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
 
@@ -58,6 +45,19 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
+
+Key areas: 
+
+1. Constitution
+2. Curation DAO (distributed autonomous organisation)
+3. Public fund 
+4. Community proposals
+5. Reserve of assets
+6. Open protocol for creator owned marketplaces
+7. Backend API
+8. Global network of curators and creators
+9. Original media and editorial
+10. Interfaces and experiences
 
 Where conflicts arise **VALUES** will take precedence. 
 
