@@ -171,25 +171,17 @@ Partners
 **MUST** 
 - ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and      redistributes them accordingly.
 - implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
+- be in the position to recommend which data should or should not be exposed externally.
 
-Partners
 **SHOULD**
 - implement configurable and flexible smart contract to embrace a variety of use cases.
 - refer to acquired know how in this scope, to test the adaptability of the contracts.
-- educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or even better at creation time.
-
-Partners
-**MUST** 
-- be in the position to recommend which data should or should not be exposed externally.
-
-Partners
-**SHOULD**
+- educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or even better at creation time. 
 - support a transparent record while retaining sensitive information in highly secured and tamper proof vaults.
 - encourage collectors from the crypto or the traditional art market to support AML best practices.
 - produce a per-metadata-entry risk profile taxonomy, and ensure the automation applies constraints where it can.
 - engage in periodic assessment of the categories of risk and update any related automation.
 
-Partners
 **COULD** 
 - support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
 
@@ -200,38 +192,32 @@ Partners
 - include a series of telemetry information derived from the customer use to feed in the business intelligence analytics
 - support integration with the backend API
 
-**MUST** support a simple creation of:
-- NFT and Semi-Fungible smart contracts
-- smart contracts on EVM compatible substrate chains and on WASM Substrate chains & 
+**MUST**
+- support simple creation of NFT and Semi-Fungible smart contracts
+- support simple creation of smart contracts on EVM compatible substrate chains and on WASM Substrate chains & 
 - support the definition of token types for the submitted smart contracts
-- support the minting of token types for the submitted smart contracts          
+- support the minting of token types for the submitted smart contracts
+- support the preparation of a state change transaction to allow the integration external signing tools
+- support the submission of a transaction with a specified number of confirmations
+- support the non state change querying for smart contract data
+- the subscription for smart contracts events (e.g. via websocket)  
+- expose a simple REST/GraphQL api     
 
 **SHOULD** 
 - support the integration with existing popular marketplaces
 - evangelise and influence popular marketplaces to embrace our API
 - act as a consultancy to onboard organisation on our API
 - offer a line of support to organisation integrated with our API
-
-**MUST** expose a simple REST/GraphQL api
-**MUST** support:
-- a simple creation of NFT and Semi-Fungible smart contracts
-- a simple creation of smart contracts both on EVM compatible as on WASM substrate chains.
-- the preparation of a state change transaction to allow the integration external signing tools
-- the submission of a transaction with a specified number of confirmations
-- the non state change querying for smart contract data
-- the subscription for smart contracts events (e.g. via websocket)
-
-**SHOULD**
 - support the simple definition of functions and parameters to be entered when calling a smart contract function
 - support the simple definition of topics subscribing to smart contract events
 - implement a number of external APIs for compatibility with web3js
 - support a number of substrate chains
 
-Partners 
 **SHOULD** 
 - demonstrate and document (via official documentation and blogposts) the simple integration and composability of the API with the UI components on representative use cases (e.g. softspot, zora etc..)
+- 
 **COULD** 
-- support a number of non substrate chains
+- support a number of non substrate chains via bridges
 
 ### 9. INTEROPERABILITY
 
@@ -241,7 +227,6 @@ Partners
 - introduce a series of automated questionnaires to acquire feedback from interoperability focus groups
 - engage the collective with a fast prototype trial of novel approaches for interoperability
 
-Partners
 **SHOULD**
 - produce a tool to support cross chain provenance for popular chains that support NFTs
 - produce a tool to support cross chain identity profiling for substrate chains
@@ -249,7 +234,6 @@ Partners
 - engage with R&D and collectively explore and experiment via targeted POCs novel forms of interoperability
 - derive additional requirements by engaging an inclusive collective (not developers only) interpreting their response and reactions
 
-Partners
 **COULD**
 - produce a tool to support cross chain identity profiling for poular chains (DIDs could inspire this work)
 - extend a graph indexing facility to operate cross chain for popular chains
@@ -264,15 +248,11 @@ Partners
 **SHOULD**
 - enable artists, creators and organisations to easily fund, govern and manage their own entities.
 - enable creative assets to be packaged into higher order entities ("community IP"). 
-
-Partners 
-**SHOULD** implement defi solutions for:
-- loans, backed by creative assets ("creative collateral") to enable additional sales.
-- speculation over a creative asset.
-- indexes of creative assets.
+- enable the issuance of loans, backed by creative assets ("creative collateral") to enable additional sales.
+- enable speculation over a creative asset.
+- create indexes of creative assets.
 - implement a risk management solution to provision for mitigations.
 
-Partners
 **COULD**
 - support preferential trading with Edgeware and any chain within the partners sphere of influence.
 - trade its tokens on third party exchanges.
@@ -291,15 +271,22 @@ Partners
 ### 12. ORIGINAL MEDIA & EDITORIAL
 
 Partners
-**SHOULD** 
+**MUST** 
+- empower a network of creators to develop and deliver original media & editorial.  
+- ensure that all content remains publicly accessible.
+- ensure that content is not only english language but ensure broad access to a global community. 
 - define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 - develop and share media content across multiple social channels, networks, press & media to promote our activities globally.
-- address any opportunities and/or challenges on a monthly base with the wider collective. 
+- create original series that capture the stories of the creators, makers and builders in and around the community.
+- make educational, inspiring and entertaining content that connects and engages with a global audience.
+- experiment with new mechanisms for the discovery, distribution and utility of creative assets - for example NFTs embedded in series triggered by audio.  
 
 ### 13. APPS,INTERFACES & EXPERIENCES
 
 **MUST** 
 - develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
+- experiment with interfaces that connect across multiple platforms. 
+- develop experiences that bridge the digital and real world.
 
 **COULD**
 - create a service that aggregates the output of all creative networks through a globally accessible service.
@@ -325,6 +312,7 @@ Partners
 **MUST**
 - research, define and document the key components of full stack Web3 media (e.g. NFTs, storage, streaming, identity, reputation)
 - agree on a series of valuable community metrics that can be derived from the collected data
+- address any opportunities and/or challenges on a monthly base with the wider collective.
 - define a series of metrics to collect from the various APIs and services
 - collect information from social media 
 - define a series of heuristics to activate on top of the collected data to infer community metrics
