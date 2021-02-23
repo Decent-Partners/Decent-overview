@@ -4,19 +4,19 @@ Decent
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") who pool and manage a common pool of shared resources including a dedicated Web3 media fund ("the fund"). 
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
 
-Together these elements form the foundations of a Curation DAO (Distributed Autonomous Organisation) with a primary focus on the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+Together these elements form the basic functions of a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)) whose primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo ("the mission").
+Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking.
 
 Partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
-The fund is initially managed by founding partners ("the council") via an n of m multisig using the [Commonwealth interface](commonwealth.im/decent). 
+The fund is initially managed by a council of founding partners ("the council") via an n of m multisig using the [Commonwealth interface](commonwealth.im/decent) as a public forum for debate and discussion.  
 
-Approved proposals return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
+Approved proposals return value to the fund in the form of attributed NFTs - assets, contracts, licenses and rights ("contributions"). 
 
 Contributions form the foundation of the fund's underlying value ("the reserve"). 
 
@@ -24,7 +24,7 @@ Existing partners vote to approve or reject proposals from prospective partners.
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become partners in the cooperative.
 
-Partners govern the cooperative and will eventually be granted shared ownership in line with contributions via the issuance of a community token backed by the reserve. 
+Partners govern the cooperative and will eventually be granted shared ownership in line with contributions via the issuance of a community token backed by the reserve that is minted through the completion of further work. 
 
 -------------------
 ### Partners
