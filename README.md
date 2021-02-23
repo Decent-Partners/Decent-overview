@@ -33,6 +33,7 @@ Partners govern the cooperative and will eventually be granted shared ownership 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
 - [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
 - [Lemonade Money](https://lemonademoney.tv): Creative studio at the intersection of changing culture. Busy building worlds. 
+- [KodaDot](https://kusama.polkassembly.io/post/384): Universal NFT explorer and marketplace interface for Substrate networks
 - [Everknow](https://everknow.it): Next generation smart contracts
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
 - [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
