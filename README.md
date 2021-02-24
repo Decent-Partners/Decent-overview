@@ -31,8 +31,7 @@ However until recently creators were still separated from the financial networks
 The arrival of creator owned marketplaces levels the playing field further but also compounds an already individualistic and profit oriented crypto-culture that masks the real oppotunity for next gen creative communities to share ownership in the emergent open-source stories, shows and worlds they build together.
 
 > We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe...
-
-[All media is going on-chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657) - Coinfund NFT Thesis. 
+> [All media is going on-chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657) - Coinfund NFT Thesis. 
 
 ### So what is missing? 
 
@@ -44,8 +43,7 @@ In the old world the role of consistently funding new talent was fulfilled by pu
 > It is the public’s broadcasting organisation; it speaks to everyone as a citizen.
 > Public broadcasters encourage access to and participation in public life.
 > They develop knowledge, broaden horizons and enable people to better understand themselves by better understanding the world and others.
-
-[Public Broadcasting Why? How?](https://unesdoc.unesco.org/ark:/48223/pf0000124058_eng) — UNESCO. 
+> [Public Broadcasting Why? How?](https://unesdoc.unesco.org/ark:/48223/pf0000124058_eng) — UNESCO. 
 
 Absolved of commercial imperative, public broadcasting rose to become the 20th century’s most trusted and effective communications initiative, able to report on local, national and global news, elevate daring storytellers, document culture, societies and the natural world, spotlight emerging areas of research outside mainstream discourse of the time, continually fund bold technological advances in communication - informing, educating and entertaining young and old minds alike.
 
@@ -59,7 +57,7 @@ When empowered to follow their own curiosities and passions, it turns out that d
 
 DAOs lower the costs of coordination at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing useful work.
 
-On-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that will further the founding values of the community it represents.
+On-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
 The underlying technology has been laid for a scaleable network of Decentralised Autonomous Organisations, that can fund, coordinate and elevate globally distributed communities — small and large, self-organised around shared goals.
 
