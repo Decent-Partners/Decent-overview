@@ -16,18 +16,20 @@ Let's start by defining Web2 media:
 > Web 2.0 (also known as Participative (or Participatory) and Social Web) refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users. 
 > [Wikipedia](https://en.wikipedia.org/wiki/Web_2.0)
 
-Platforms such as YouTube, Facebook, Twitter, Spotify and Netflix form the cornerstones of Web2 media and have contributed a huge amount to the democratisation of the global creative industries, enabling a millions of creators to connect, create and commune as never before. 
+Platforms such as YouTube, Facebook, Twitter, Spotify and Netflix form the cornerstones of Web2 media and have contributed a huge amount to the democratisation of the global creative industries, enabling millions of creators to connect, create and commune as never before. 
 
-Once the rebellious upstarts, these platforms are now the establishment, concentrating unprecedented wealth, control and influence in the hands of a relatively small group of companies. Their ad supported and subscription business models extract ever increasing value from the creative talent on which they depend, whilst creating increasingly perverse incentives for those that use and consume digital media, with profound consequences on all aspects of society.  
+Once the rebellious upstarts, these platforms are now the establishment, concentrating unprecedented wealth, control and influence in the hands of a relatively small group of companies. 
+
+Their ad supported and subscription business models extract ever increasing value from the creative talent on which they depend, whilst creating increasingly perverse incentives for those that use and consume digital media, with profound consequences for all areas of society.  
 
 ![adsvssubs](https://github.com/Decent-Partners/decent-overview/blob/main/ads%20vs%20subs.png)
 
 Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
 
-### Why is it an opportunity worth pursuing? 
+### Why is Web3 media an opportunity worth pursuing? 
 Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the Substrate ecosystem, NFTs (non-fungible-tokens) have been heralded as a core component in the Web3 stack and will likely define 2021, expanding the existing crypto bubble and onboarding many new users in the process.
 
-However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms who behave in a Web2 manner, acting as gatekeepers, owning the creators market and taking a cut. 
+However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms who operate in a Web2 manner, as gatekeepers, owning the creators market and taking a cut. 
 
 Recent innovations from projects such as [Zora](https://ourzora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
 
@@ -39,9 +41,11 @@ The arrival of creator owned marketplaces levels the playing field further but a
 
 ### So what is missing? 
 
-The missing piece in the ecosystem is that true revolutionary creators, artists and musicians don't set out to mint and sell their work... what they need is the funding, time and space to make great work in the first place. The noise around price is a distraction - anathema to a creative process that exists independent of rampant speculation. 
+The missing piece in the ecosystem is that true revolutionary creators, artists and musicians don't set out to mint and sell their work... what they need is the funding, time and space to make great work in the first place. 
 
-In the old world the role of consistently funding new talent was fulfilled by public service broadcasters like the BBC who backed talent before they were famous, an approach that was at its inception revolutionary and widely emulated throughout the world.
+The noise around price is a distraction - anathema to the creative process that exists independent and even counter to the profitable business of collecting. In the end it is worth remembering that money always follows culture - gentrification does not precede the artists and the outcasts, it follows in their wake.  
+
+In the old world the role of consistently funding bold new thinking was fulfilled by public service broadcasters like the BBC who backed talent before they were famous, an approach that was at its inception revolutionary and widely emulated throughout the world.
 
 > Neither commercial nor State-controlled, public broadcasting’s only raison d’etre is public service.
 > It is the public’s broadcasting organisation; it speaks to everyone as a citizen.
@@ -54,11 +58,13 @@ Absolved of commercial imperative, public broadcasting rose to become the 20th c
 
 ![balance](https://github.com/Decent-Partners/decent-overview/blob/main/balance.png)
 
-At their inception they were revolutionary institutions, but over time, like every established institution their technological advantages have been usurped, their systems of governance have calcified and the creative invention of their contributors has waned.
+At their inception they were revolutionary institutions, but over time their technological advantages have been usurped, their systems of governance have calcified and the creative invention of their contributors has waned.
 
 ### Public service media in a networked era 
 
-When empowered to follow their own curiosities and passions, it turns out that people are not as rational as many would believe. The internet and the world wide web — and the extraordinary revolutions they have sparked were released as free, open source software, with a central ideal of open access for all.
+The privatisation of the public sphere and rise of social networks has left the internet without a compelling solution to the creation of global public benefit institutions, at a point in time when universally trusted, transparently funded and culturally relevant information is desperately needed.
+
+However there is good news - when empowered to follow their own curiosities and passions, it turns out that people are not as profit oriented as many would believe. The internet and the world wide web — and the extraordinary revolutions they have sparked were released as free, open source software, with a central ideal of open access for all.
 
 > Facebook is built on open source from top to bottom, and could not exist without it. — Facebook
 
