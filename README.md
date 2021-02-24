@@ -22,6 +22,8 @@ Once the rebellious upstarts, these platforms are now the establishment, concent
 
 ![adsvssubs](https://github.com/Decent-Partners/decent-overview/blob/main/ads%20vs%20subs.png)
 
+Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
+
 ### Why is it an opportunity worth pursuing? 
 Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the Substrate ecosystem, NFTs (non-fungible-tokens) have been heralded as a core component in the Web3 stack and will likely define 2021, expanding the existing crypto bubble and onboarding many new users in the process.
 
