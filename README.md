@@ -14,8 +14,7 @@ This community created roadmap outlines a path to building a publicly owned, ope
 Let's start by defining Web2 media:
 
 > Web 2.0 (also known as Participative (or Participatory) and Social Web) refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users. 
-
-[Wikipedia](https://en.wikipedia.org/wiki/Web_2.0)
+> [Wikipedia](https://en.wikipedia.org/wiki/Web_2.0)
 
 Platforms such as YouTube, Facebook, Twitter, Spotify and Netflix form the cornerstones of Web2 media and have contributed a huge amount to the democratisation of the global creative industries, enabling a millions of creators to connect, create and commune as never before. 
 
