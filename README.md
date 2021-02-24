@@ -84,9 +84,9 @@ The basic building blocks for global, decentralised and permissionless public se
 
 -------------------
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund") that receives investment from chain treasuries.  
 
-Together these elements form the basic functions of a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)).
+Together these elements form the basic functions of a [_Meta DAO_](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/) - a 'layer 2 entity' that operates on a layer above the tribalism present in today's crypto-networks.
 
 Decent's primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
