@@ -3,28 +3,72 @@
 Decent
 -------------------
 
+### Introduction
+This is a working document for the upcoming Decent Partners proposal to Edgeware that will present an integrated roadmap that seeks to align a range of competencies and resources around a collectively architected roadmap with the aim of building crypto’s leading Web3 media ecosystem. 
+
+### What is Web3 media? 
+
+Web2 has been defined as:
+
+Web 2.0 (also known as Participative (or Participatory) and Social Web) refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users.
+
+Ad supported media platforms such as YouTube, Facebook and Twitter sell attention for dollars, leading to clickbait cycles and separating creative endeavours from value capture. Subscription services enable walled gardens and high quality content but also create their own filter bubbles and ensure information is not open to all. 
+
+NFTs are one part of Web3 media, but until recently creators were still separated from the financial networks their work creates by a first generation of NFT galleries who behave in a Web2 manner, sitting in the middle, owning the creators market and taking a cut. 
+Zora do not take fees. Their approach introduces a ‘crypto-media’ primitive that we believe is a core foundation of Web3 media - enabling creators to mint both media and market into a single asset.
+
+### Why is it an opportunity worth pursuing? 
+
+Whilst defi may have have been the story of 2020 and constitutes the majority of focus in the Substrate ecosystem, the bridging of media and market via NFTs is maybe going to define 2021 and expand the existing crypto bubble, onboarding many new users. The scale of the opportunity is vast and still in its infancy. 
+
+“We can view NFTs as liquid intellectual property (“liquid IP”) for all forms of digital content, a marketplace which is measured in trillions of units that is about to be tokenized...
+
+As intellectual property rights inevitably move onto the blockchain as NFTs, trillions of units of digital content will move onto secondary markets. 
+
+This will unlock tremendous illiquid value and become the biggest asset class in blockchain.”
+
+All media is going on-chain - Coinfund NFT Thesis. 
+
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
 
-Together these elements form the basic functions of Decent as a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)) whose primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+Together these elements form the basic functions of a _Curation DAO_ ([Distributed Autonomous Organisation](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)).
 
-Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
+Decent's primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
+It's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
+
+It's vision is to create community owned BBC designed for a networked world. 
+
+### Funding
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
-The fund is initially managed by a council of founding partners ("the council") via an n of m multisig using the [Commonwealth interface](commonwealth.im/decent) as a public forum for debate and discussion.  
+The fund is initially managed by a council of founding partners ("the council") via an n of m multisig.
+
+### Proposals
+
+Prospective partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
+
+The proposal process is managed using the [Commonwealth's interface](commonwealth.im/decent) enabling public debate and discussion.  
+
+### Value capture 
 
 Approved proposals return value to the fund in the form of attributed NFTs - assets, contracts, licenses and rights ("contributions"). 
 
-Contributions form the foundation of the fund's underlying value ("the reserve"). 
+Contributions form the foundation of the fund's underlying value and are pooled into a secure but public vault ("the reserve"). 
+
+### Governance & Oversight 
 
 Existing partners vote to approve or reject proposals from prospective partners. 
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become partners in the cooperative.
 
-Partners govern the cooperative and will eventually be granted shared ownership in line with contributions via the issuance of a community token backed by the reserve that is minted through the completion of further work. 
+This approach ensures a progressive decentralisation of the DAO
+
+Partners will eventually be granted shared ownership in line with contributions via the issuance of a community token.
+
+This token will be backed by the cooperatives reserve. 
 
 -------------------
 ### Partners
