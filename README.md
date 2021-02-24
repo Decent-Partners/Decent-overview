@@ -43,6 +43,7 @@ In the old world the role of consistently funding new talent was fulfilled by pu
 > It is the public’s broadcasting organisation; it speaks to everyone as a citizen.
 > Public broadcasters encourage access to and participation in public life.
 > They develop knowledge, broaden horizons and enable people to better understand themselves by better understanding the world and others.
+> 
 > [Public Broadcasting Why? How?](https://unesdoc.unesco.org/ark:/48223/pf0000124058_eng) — UNESCO. 
 
 Absolved of commercial imperative, public broadcasting rose to become the 20th century’s most trusted and effective communications initiative, able to report on local, national and global news, elevate daring storytellers, document culture, societies and the natural world, spotlight emerging areas of research outside mainstream discourse of the time, continually fund bold technological advances in communication - informing, educating and entertaining young and old minds alike.
@@ -51,13 +52,20 @@ At their inception they were revolutionary institutions, but over time, like eve
 
 ### Public service media in a networked era 
 
-When empowered to follow their own curiosities and passions, it turns out that digital technologies enable people to achieve incredible things together. The internet and the world wide web — and the extraordinary revolutions they have sparked were released as free, open source software, with a central ideal of open access for all.
+When empowered to follow their own curiosities and passions, it turns out that people are not as rational as many would believe. The internet and the world wide web — and the extraordinary revolutions they have sparked were released as free, open source software, with a central ideal of open access for all.
 
 > Facebook is built on open source from top to bottom, and could not exist without it. — Facebook
 
-DAOs lower the costs of coordination at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing useful work.
+It turns out real value is not bought, it is built - by collective endeavours that persist over the long term. The revolution in crypto-currency is in fact a revolution in the funding of open source endeavours...  
+
+> Digital currencies and open source projects typically fall victim to the tragedy of the commons, where individuals who share a resource act in their own self-interest, depleting or spoiling that resource. 
+> Numerous methods have been used to solve the funding issue across cryptocurrencies, including donations, founders funds, venture capital funding, and various forms of ICO/IEO. 
+> All of these methods come with shortcomings, including agency problems, conflicts of interest, and a lack of ongoing funding.
+> Decred has solved the funding problem by directing 10% of every block reward into a Project Treasury. This ongoing solution funds Decred for generations to come. 
 
 On-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
+
+DAOs lower the costs of coordination at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing useful work.
 
 The underlying technology has been laid for a scaleable network of Decentralised Autonomous Organisations, that can fund, coordinate and elevate globally distributed communities — small and large, self-organised around shared goals.
 
