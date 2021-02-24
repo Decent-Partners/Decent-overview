@@ -8,7 +8,7 @@ This working document will form the basis for the upcoming Decent Partners propo
 
 By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
 
-This community created roadmap outlines a path to building crypto’s leading publicly owned and operated Web3 media ecosystem. 
+This community created roadmap outlines a path to building a publicly owned, operated and accessed Web3 media ecosystem. 
 
 ### What is Web3 media? 
 Let's start by defining Web2 media:
