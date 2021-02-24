@@ -4,30 +4,67 @@ Decent
 -------------------
 
 ### Introduction
-This is a working document for the upcoming Decent Partners proposal to Edgeware that will present an integrated roadmap that seeks to align a range of competencies and resources around a collectively architected roadmap with the aim of building crypto’s leading Web3 media ecosystem. 
+This working document will form the basis for the upcoming Decent Partners proposal to the Edgeware treasury. 
+
+By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
+
+This community created roadmap outlines a path to building crypto’s leading publicly owned and operated Web3 media ecosystem. 
 
 ### What is Web3 media? 
-
 Web2 has been defined as:
 
-Web 2.0 (also known as Participative (or Participatory) and Social Web) refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users.
+> Web 2.0 (also known as Participative (or Participatory) and Social Web) refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users. 
 
-Ad supported media platforms such as YouTube, Facebook and Twitter sell attention for dollars, leading to clickbait cycles and separating creative endeavours from value capture. Subscription services enable walled gardens and high quality content but also create their own filter bubbles and ensure information is not open to all. 
+[Wikipedia](https://en.wikipedia.org/wiki/Web_2.0)
+
+Platforms such as YouTube, Facebook, Twitter, Spotify and Netflix form the cornerstones of Web2 media and have contributed a huge amount to the democratisation of the creative industries, enabling a generation of digital creators to connect, create and commune as never before. 
+
+However the rebellious upstarts are now the establishment, concentrating unprecedented wealth, control and influence in the hands of a relatively small group of companies. Their ad supported and subscription business models extract ever increasing value from the creative talent on which they depend, whilst creating increasingly perverse incentives for those that use and consume their media. 
+
+
+
+
+
 
 NFTs are one part of Web3 media, but until recently creators were still separated from the financial networks their work creates by a first generation of NFT galleries who behave in a Web2 manner, sitting in the middle, owning the creators market and taking a cut. 
-Zora do not take fees. Their approach introduces a ‘crypto-media’ primitive that we believe is a core foundation of Web3 media - enabling creators to mint both media and market into a single asset.
+
+Recent innovations from projects such as [Zora](https://ourzora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf).
+
+The NFT noise right now masks the revolution that will be the culture created by next gen creative communities who share ownership in the stories, shows and worlds they develop together.
+
+We're calling this 'Community Rights' - the next Marvel / Star Wars / Black Mirror will be collectively created and will eventually dwarf the media franchises of the 20th century.
+
+This piece is worth a read 'All Media Is Going On-chain' "We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe"
+
+We're entering another 2017 mania around NFTs, with the conversation once again dominated by price above all things. 
+
+The missing piece in the ecosystem (what Zora etc are missing) is that the really revolutionary creators/artists/musicians don't just want to mint and sell their work...
+
+True artists don't chase the money, what they need is time and the space to make great work in the first place. They don't need the noise around price - it's a distraction.
+
+This is why it's vital to find, nurture and champion the next generation of creative talent/ communities over the long term.  
+
+In the old world the role of consistently funding this type of talent was fulfilled by public service broadcasters like the BBC who backed talent before they were famous.
+
+This is a role that on-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) with large public treasuries (hundreds millions of $$$) that are community owned and operated can invest ahead of the curve.
+
+Add in a community proposal platform like Commonwealth and you can see the building blocks for global, decentralised and permissionless public service media are emerging
+
+We think about these crypto-networks as digital cooperatives - in this sense Ledger could become a core cooperative member, sharing meaningful resources rather than just paying to ride on the back of the culture (aka Red Bull).
+
+"What does the BBC look like in a networked world?" is the big north star we've been working towards for a few years now.
 
 ### Why is it an opportunity worth pursuing? 
 
 Whilst defi may have have been the story of 2020 and constitutes the majority of focus in the Substrate ecosystem, the bridging of media and market via NFTs is maybe going to define 2021 and expand the existing crypto bubble, onboarding many new users. The scale of the opportunity is vast and still in its infancy. 
 
-“We can view NFTs as liquid intellectual property (“liquid IP”) for all forms of digital content, a marketplace which is measured in trillions of units that is about to be tokenized...
+> We can view NFTs as liquid intellectual property (“liquid IP”) for all forms of digital content, a marketplace which is measured in trillions of units that is about to be tokenized...
 
-As intellectual property rights inevitably move onto the blockchain as NFTs, trillions of units of digital content will move onto secondary markets. 
+> As intellectual property rights inevitably move onto the blockchain as NFTs, trillions of units of digital content will move onto secondary markets. 
 
-This will unlock tremendous illiquid value and become the biggest asset class in blockchain.”
+> This will unlock tremendous illiquid value and become the biggest asset class in blockchain.
 
-All media is going on-chain - Coinfund NFT Thesis. 
+[All media is going on-chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657) - Coinfund NFT Thesis. 
 
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
@@ -91,7 +128,6 @@ This token will be backed by the cooperatives reserve.
 ### Requirements
 
 The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
-The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
 Key areas of focus: 
 
