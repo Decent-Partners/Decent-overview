@@ -82,6 +82,7 @@ When sustainable funding from community owned treasuries is matched to multi-sig
 
 The basic building blocks for global, decentralised and permissionless public service media are here.
 
+-------------------
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
 
