@@ -29,7 +29,7 @@ Whilst defi may have have been the major story of 2020 and constitutes the major
 
 However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms who behave in a Web2 manner, acting as gatekeepers, owning the creators market and taking a cut. Recent innovations from projects such as [Zora](https://ourzora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
 
-The arrival of creator owned marketplaces levels the playing field further but also compounds an already individualistic and profit oriented crypto-culture that masks the real oppotunity for next gen creative communities to share ownership in the emergent open-source stories, shows and worlds they build together.
+The arrival of creator owned marketplaces levels the playing field further but also compounds an already individualistic and profit oriented crypto-culture that masks the real oppotunity for a new generation of creative communities to share ownership in the emergent stories, shows and worlds they build and open-source together.
 
 > We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe.
 >
