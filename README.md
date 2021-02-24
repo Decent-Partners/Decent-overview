@@ -76,11 +76,11 @@ It turns out real value is not bought, it is built - by collective endeavours an
 >  
 > [Decred](https://decred.org/sustainability/)
 
-Decred is the first in a new breed of blockchains that is public owned, sustainably funded and transparently governed - it's primary 'use case', the funding of open source technology. 
+Decred is the first in a new breed of blockchains that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the funding of open source technology. 
 
 On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
-When sustainable funding from community owned treasuries is matched to multi-signature wallets and community proposal platforms such as [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
+When sustainable funding from community owned treasuries is matched to multi-signature wallets and open source community proposal platforms such as [Politeia](https://proposals.decred.org) and (https:// [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
 
 The basic building blocks for global, decentralised and permissionless public service media are here.
 
@@ -91,19 +91,17 @@ The basic building blocks for global, decentralised and permissionless public se
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund") that receives investment from chain treasuries.  
 
-Together these elements form the basic functions of a [_Meta DAO_](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/) - a 'layer 2 entity' that operates on a layer above the tribalism present in today's crypto-networks.
+Together these elements form the basic functions of a _[metaDAO](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/)_ - an entity designed to operate on a layer above the tribalism present in today's crypto-networks, diversifying both funding sources and community cultures. ("The MetaDAO").
 
 Decent's primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-It's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
+Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
 
-It's vision is to reimagine public service broadcasting for a networked world.
+Decent's vision is to reimagine public service broadcasting for a networked world.
 
 ### Funding
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
-
-The fund is initially managed by a council of founding partners ("the council") via an n of m multisig.
 
 ### Proposals
 
@@ -119,18 +117,26 @@ Contributions form the foundation of the fund's underlying value and are pooled 
 
 ### Governance & Oversight 
 
+Decent's approach to 'good governance' is focused on developing trust and reputation between its partners. 
+
+If funded this proposal constitutes the first _approved_ proposal. 
+
+The funds will managed initially by a council of founding partners ("the council") via an n of m multisig.
+
 Existing partners vote to approve or reject proposals from prospective partners. 
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become partners in the cooperative.
 
-This approach ensures a [progressive decentralisation](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) of the DAO.
+This approach ensures a [progressive decentralisation](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) of the MetaDAO.
 
 Partners will eventually be granted shared ownership in line with contributions via the issuance of a community token.
+
+The issuance of that token will be subject to the delivery of proposals. 
 
 This token will be backed by the cooperatives reserve. 
 
 -------------------
-### Partners
+### Prospective Partners
 
 - [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
@@ -154,7 +160,7 @@ The following contains a comprehensive set of requirements prioritised via the M
 Key areas of focus: 
 
 1. Cooperative values
-2. Curation DAO 
+2. MetaDAO 
 3. Public fund 
 4. Community proposals
 5. Creative assets
@@ -182,7 +188,7 @@ _N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._
 **SHOULD** 
 - prioritise long term thinking over short-term opportunities.
 
-### 2. DECENT DAO
+### 2. METADAO
 
 **MUST**
 - be governed by nominated partners who together represent the contributing workers of the cooperative.
@@ -433,7 +439,8 @@ Partners
 - produce a risk profile associated to collectors and investors
 
 
-### USE CASES ???
+
+Notes:
 
 - [Business intelligence - art anayltics](art-analytics-use-case.md)
 
