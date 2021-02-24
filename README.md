@@ -109,6 +109,14 @@ Decent's vision is to reimagine public service broadcasting for a networked worl
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
+The funding request is for an initial £1m in EDG. 
+
+This payment ensures Edgeware as a project is a partner and will have a share in any future token issuance.
+
+The ambition is to onboard other chain treasuries over time, leveraging not just their fiances but their unique technological and cultural characteristics. 
+
+Eventually we forsee this funding becoming a voluntary _ecosystem tax_ paid on an ongoing basis as noted in the original [MetaDAO post](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/).  
+
 ### Proposals
 
 Prospective partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
@@ -119,15 +127,17 @@ The proposal process is managed using the [Commonwealth's interface](commonwealt
 
 Approved proposals return value to the fund in the form of attributed NFTs - assets, contracts, licenses and rights ("contributions"). 
 
-Contributions form the foundation of the fund's underlying value and are pooled into a secure but public vault ("the reserve"). 
+Contributions form the foundation of the fund's underlying value and are pooled into a secure but public vault ("the reserve").
+
+You can view a WIP financial forecast for the fund [here](https://docs.google.com/spreadsheets/d/1AVd4BrQWH2Wp1-iHQiYZogdL3QujIunJUV_TBsSlC6Q/edit?usp=sharing). 
 
 ### Governance & Oversight 
 
-Decent's approach to 'good governance' is focused on developing trust and reputation between its partners. 
+Decent's approach to 'good governance' is focused on developing trust between its partners through the successful delivery of proposals.
 
-If funded this proposal constitutes the first _approved_ proposal. 
+If funded this proposal constitutes the first _approved_ proposal.  
 
-The funds will managed initially by a council of founding partners ("the council") via an n of m multisig.
+The authors will be elected initially as a council of founding partners ("the council") via an n of m multisig.
 
 Existing partners vote to approve or reject proposals from prospective partners. 
 
@@ -153,6 +163,7 @@ This token will be backed by the cooperatives reserve.
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
 - [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
 - [Four To The Floor](https://fttf.tv): MTV for the crypto-generation. 
+- [ACJR](https://acjr.network/): The Association of Cryptocurrency Journalists and Researchers.
 - [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space. 
 - [Auto Fabrica](https://autofabrica.com): A multidisciplinary mobility design collective.  
 - [Weapons of Reason](https://weaponsofreason.com): Making it easier to understand complex global issues.
