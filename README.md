@@ -30,7 +30,7 @@ However until recently creators were still separated from the financial networks
 The arrival of creator owned marketplaces levels the playing field further but also compounds an already individualistic and profit oriented crypto-culture that masks the real oppotunity for next gen creative communities to share ownership in the emergent open-source stories, shows and worlds they build together.
 
 > We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe...
-> [All media is going on-chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657) - Coinfund NFT Thesis. 
+> >[All media is going on-chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657) - Coinfund NFT Thesis. 
 
 ### So what is missing? 
 
