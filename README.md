@@ -21,10 +21,7 @@ Platforms such as YouTube, Facebook, Twitter, Spotify and Netflix form the corne
 
 However the rebellious upstarts are now the establishment, concentrating unprecedented wealth, control and influence in the hands of a relatively small group of companies. Their ad supported and subscription business models extract ever increasing value from the creative talent on which they depend, whilst creating increasingly perverse incentives for those that use and consume their media. 
 
-
-
-
-
+![adsvssubs](https://github.com/Decent-Partners/decent-overview/blob/main/ads%20vs%20subs.png)
 
 NFTs are one part of Web3 media, but until recently creators were still separated from the financial networks their work creates by a first generation of NFT galleries who behave in a Web2 manner, sitting in the middle, owning the creators market and taking a cut. 
 
