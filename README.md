@@ -61,9 +61,15 @@ When empowered to follow their own curiosities and passions, it turns out that p
 It turns out real value is not bought, it is built - by collective endeavours that persist over the long term. The revolution in crypto-currency is in fact a revolution in the funding of open source endeavours...  
 
 > Digital currencies and open source projects typically fall victim to the tragedy of the commons, where individuals who share a resource act in their own self-interest, depleting or spoiling that resource. 
+> 
 > Numerous methods have been used to solve the funding issue across cryptocurrencies, including donations, founders funds, venture capital funding, and various forms of ICO/IEO. 
+> 
 > All of these methods come with shortcomings, including agency problems, conflicts of interest, and a lack of ongoing funding.
-> Decred has solved the funding problem by directing 10% of every block reward into a Project Treasury. This ongoing solution funds Decred for generations to come. 
+> 
+> Decred has solved the funding problem by directing 10% of every block reward into a Project Treasury. 
+> 
+> This ongoing solution funds Decred for generations to come. 
+> [Decred](https://decred.org/sustainability/)
 
 On-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
