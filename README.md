@@ -60,7 +60,7 @@ When empowered to follow their own curiosities and passions, it turns out that p
 
 > Facebook is built on open source from top to bottom, and could not exist without it. — Facebook
 
-It turns out real value is not bought, it is built - by collective endeavours with long time horizons and a collective mindset. 
+It turns out real value is not bought, it is built - by collective endeavours and long time horizons. 
 
 > Digital currencies and open source projects typically fall victim to the tragedy of the commons, where individuals who share a resource act in their own self-interest, depleting or spoiling that resource. 
 > 
@@ -74,9 +74,9 @@ It turns out real value is not bought, it is built - by collective endeavours wi
 >  
 > [Decred](https://decred.org/sustainability/)
 
-Of course you can speculate on tokens, but for those who want to contribute meaningfully, the real revolution in crypto-currency is in the funding of open source endeavours.
+Decred is the first in a new breed of blockchains that is public owned, sustainably funded and transparently governed - it's primary 'use case', the funding of open source technology. 
 
-On-chain treasuries like Edgeware/Decred/Polkadot/Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
+On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
 When sustainable funding from community owned treasuries is matched to multi-signature wallets and community proposal platforms such as [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
 
