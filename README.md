@@ -123,7 +123,7 @@ Existing partners vote to approve or reject proposals from prospective partners.
 
 When a prospective partner successfully delivers a proposal as judged by their peers, they become partners in the cooperative.
 
-This approach ensures a progressive decentralisation of the DAO
+This approach ensures a [progressive decentralisation](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) of the DAO.
 
 Partners will eventually be granted shared ownership in line with contributions via the issuance of a community token.
 
