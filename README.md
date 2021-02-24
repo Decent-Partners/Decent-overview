@@ -58,7 +58,7 @@ When empowered to follow their own curiosities and passions, it turns out that p
 
 > Facebook is built on open source from top to bottom, and could not exist without it. — Facebook
 
-It turns out real value is not bought, it is built - by collective endeavours that persist over the long term. The revolution in crypto-currency is in fact a revolution in the funding of open source endeavours...  
+It turns out real value is not bought, it is built - by collective endeavours with long time horizons and a collective mindset. 
 
 > Digital currencies and open source projects typically fall victim to the tragedy of the commons, where individuals who share a resource act in their own self-interest, depleting or spoiling that resource. 
 > 
@@ -68,16 +68,17 @@ It turns out real value is not bought, it is built - by collective endeavours th
 > 
 > Decred has solved the funding problem by directing 10% of every block reward into a Project Treasury. 
 > 
-> This ongoing solution funds Decred for generations to come. 
+> This ongoing solution funds Decred for generations to come.
+>  
 > [Decred](https://decred.org/sustainability/)
 
-On-chain treasuries like Edgeware/Decred/Polkadot/Kusama (there will be many more in 12 months) now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
+Of course you can speculate on tokens, but for those who want to contribute meaningfully, the real revolution in crypto-currency is in the funding of open source endeavours.
 
-DAOs lower the costs of coordination at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing useful work.
+On-chain treasuries like Edgeware/Decred/Polkadot/Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
-The underlying technology has been laid for a scaleable network of Decentralised Autonomous Organisations, that can fund, coordinate and elevate globally distributed communities — small and large, self-organised around shared goals.
+When sustainable funding from community owned treasuries is matched to multi-signature wallets and community proposal platforms such as [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
 
-Add in a community proposal platform like [Commonwealth](https://commonwealth.im) and you can see the building blocks for global, decentralised and permissionless public service media are emerging.
+The basic building blocks for global, decentralised and permissionless public service media are here.
 
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund"). 
