@@ -26,14 +26,14 @@ Their ad supported and subscription business models extract ever increasing valu
 
 Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
 
-### Why is the Web3 media an opportunity worth pursuing? 
-Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the Substrate ecosystem, NFTs (non-fungible-tokens) have been heralded as a core component in the Web3 stack and will likely define 2021, expanding the existing crypto bubble and onboarding many new users in the process.
+### Why is Web3 media an opportunity worth pursuing? 
+Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a key core component of the Web3 stack. NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be one of 2021's biggest stories, expanding the existing crypto bubble and onboarding many new users in the process.
 
-However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms who operate in a Web2 manner, as gatekeepers, owning the creators market and taking a cut. 
+However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms and galleries who operate in a Web2 manner, as gatekeepers, owning the creators market and taking a cut. 
 
 Recent innovations from projects such as [Zora](https://ourzora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
 
-The arrival of creator owned marketplaces levels the playing field further but also compounds an already individualistic and profit oriented crypto-culture that masks the real opportunity for a new generation of creative communities to share ownership in the emergent stories, shows and worlds they build and open-source together.
+The arrival of creator owned marketplaces levels the playing field further but also supercharges an already individualistic and profit oriented crypto-culture that masks the real opportunity for a new generation of creative communities to share ownership in the emergent stories, shows and worlds they build together.
 
 > We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe.
 >
@@ -41,7 +41,7 @@ The arrival of creator owned marketplaces levels the playing field further but a
 
 ### So what is missing? 
 
-The missing piece in the ecosystem is that true revolutionary creators, artists and musicians don't set out to mint and sell their work... what they need is the funding, time and space to make great work in the first place. 
+When you take a step back to see the bigger picture it is clear that the present hype misses a core insight - that generationally influential creators, artists and musicians don't set out to mint and sell their work... what they need is the funding, time and space to make great work in the first place. 
 
 The noise around price is a distraction - anathema to the creative process that exists independent and even counter to the profitable business of collecting. In the end it is worth remembering that money always follows culture - gentrification does not precede the artists and the outcasts, it follows in their wake.  
 
@@ -68,7 +68,7 @@ However there is good news - when empowered to follow their own curiosities and 
 
 > Facebook is built on open source from top to bottom, and could not exist without it. — Facebook
 
-It turns out real value is not bought, it is built - by collective endeavours and long time horizons. 
+Real value is not bought, it is built - by collective endeavours focused on long time horizons and a higher calling than making a quick buck. 
 
 > Digital currencies and open source projects typically fall victim to the tragedy of the commons, where individuals who share a resource act in their own self-interest, depleting or spoiling that resource. 
 > 
@@ -80,9 +80,14 @@ It turns out real value is not bought, it is built - by collective endeavours an
 > 
 > This ongoing solution funds Decred for generations to come.
 >  
-> [Decred](https://decred.org/sustainability/)
+> [Decred website](https://decred.org/sustainability/)
 
-Decred is the first in a new breed of blockchains that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the funding of open source technology. 
+Decred is the first in what may well later be defined as the third generation of blockchains after Bitcoin and Ethereum. It is one of a new breed that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the funding of open source technology. 
+
+> For a while, skeptics asked what $DCR's raison d'être was...
+> 
+> IMO the turning point for people realizing @decredproject's ability to bring valuable services to the world was #DCRDEX, which has seen rapid uptake as a privacy-preserving, hard-money #DEX:
+> [Chris Burniske](https://twitter.com/cburniske/status/1362146222623002626)
 
 On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
 
