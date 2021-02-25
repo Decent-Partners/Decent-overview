@@ -164,6 +164,9 @@ This token will be backed by the cooperatives reserve.
 -------------------
 ### Prospective Partners
 
+Decent Partners is the bootstrapping entity for the cooperative, its role is to push forward the cooperative to a point where it is governed by a wide range of partners who successfully propose and deliver projects across a wide range of areas.
+
+- [Decent Partners](https://decent.partners): Decent develops community networks that are funded, governed and owned by the people they represent.
 - [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
 - [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
@@ -180,11 +183,11 @@ This token will be backed by the cooperatives reserve.
 - [Maia Pictures](https://maia.pictures): Nurturing the next generation of writing talent. 
 
 -------------------
-### Requirements
+### Areas of interest
 
-The following contains a comprehensive set of requirements prioritised via the MoSCoW approach.
+The following outlines a comprehensive but non-exhaustive set of requirements that will enable the cooperative to achieve its mission. 
 
-Key areas of focus: 
+Some of these areas have prospective partners ready to propose funding, some are areas which need new expertise. All are open to further discussion and contribution.
 
 1. Cooperative values
 2. MetaDAO 
@@ -197,11 +200,13 @@ Key areas of focus:
 9. Interoperability
 10. Community networks
 11. Community rights
-12. Original media and editorial
+12. Original media, editorial and research
 13. Apps, Interfaces & Experiences
 14. Research & Development
 
 _N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._ 
+
+The requirements have been prioritised via the MoSCoW approach.
 
 ### 1. COOPERATIVE VALUES
 
@@ -404,14 +409,14 @@ Partners
 **COULD** 
 - be profitably licensed by 3rd party media entities, services or organisations. 
 
-### 12. ORIGINAL MEDIA & EDITORIAL
+### 12. ORIGINAL MEDIA, EDITORIAL & RESEARCH
 
 Partners
 **MUST** 
-- empower a network of creators to develop and deliver original media & editorial.  
+- empower a network of creators to develop and deliver original media, editorial and research. 
+- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications. 
 - ensure that all content remains publicly accessible.
 - ensure that content is not only english language but ensure broad access to a global community. 
-- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 - develop and share media content across multiple social channels, networks, press & media to promote our activities globally.
 - create original series that capture the stories of the creators, makers and builders in and around the community.
 - make educational, inspiring and entertaining content that connects and engages with a global audience.
@@ -467,7 +472,7 @@ Partners
 
 
 
-Notes:
+Not used:
 
 - [Business intelligence - art anayltics](art-analytics-use-case.md)
 
