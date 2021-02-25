@@ -90,11 +90,15 @@ Decred is the first in what may well later be defined as the third generation of
 > 
 > [Chris Burniske](https://twitter.com/cburniske/status/1362146222623002626)
 
-On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
+On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of each community. 
 
-When sustainable funding from community owned treasuries is matched to multi-signature wallets and open source community proposal platforms such as [Politeia](https://proposals.decred.org) and (https:// [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
+The challenge is no longer fundraising, these projects have enough capital to build for decades. The challenge is now sourcing, developing and delivering quality proposals. Twitter wars are still fought between communities over the question of whose chain is most scalable - whose transaction throughput might match Visa or Mastercard. For this new generation of chains this is important but not key. The big question now moves to one of social scalability, with the focus on the people delivering useful work on behalf of their common pool funding.
 
-The basic building blocks for global, decentralised and permissionless public service media are here.
+When sustainable funding from community owned treasuries is matched to multi-signature wallets and open source community proposal platforms such as [Politeia](https://proposals.decred.org) and [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
+
+With this in place, the basic building blocks for global, decentralised and permissionless public service media are here.
+
+![metaDAO](https://github.com/Decent-Partners/decent-overview/blob/main/metaDAO.png)
 
 -------------------
 
