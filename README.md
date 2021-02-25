@@ -440,12 +440,15 @@ Partners
 - develop partnerships and relationships to further the mission. 
 - define KPIs to track the success of any partnerships and relationships.
 - review and report on progress every three months. 
-- Async composability model
-- Customisable Smart Contracts
-- Foreign Technology (Haskell, C)
-- Identity and metadata access
-- Content Streaming
-- Scalability and parallelism 
+
+**SHOULD**
+- research Async's composability model for Substrate chains.
+- research [Customisable Smart Contracts](https://everknow.it/)
+- research Foreign Technology (Haskell, C)
+- research and metadata access
+- research content streaming
+- research scalability and parallelism
+- research social scalability and governance
 
 ### 15. COLLECTIVE INTELLIGENCE
 
@@ -462,18 +465,17 @@ Partners
 - shape the analytics backend traversals over graph indices
 - produce a series of reports and graphical representation of the acquired data and business metrics
 - activate a series of clustering techniques to identify unexpected patterns in data
-
-**COULD** 
-- produce a risk management tool for the partners and affiliates organisations
+- develop [anayltics for Web3 media](art-analytics-use-case.md)
 
 **SHOULD**
 - produce a risk profile associated to NFTs
 - produce a risk profile associated to collectors and investors
 
+**COULD** 
+- produce a risk management tool for the partners and affiliates organisations
 
 
-Not used:
 
-- [Business intelligence - art anayltics](art-analytics-use-case.md)
+
 
 
