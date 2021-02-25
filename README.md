@@ -125,7 +125,13 @@ This payment ensures Edgeware as a project is a partner and will have a share in
 
 The ambition is to onboard other chain treasuries over time, leveraging not just their fiances but their unique technological and cultural characteristics. 
 
-Eventually we forsee this funding becoming a voluntary _ecosystem tax_ paid on an ongoing basis as noted in the original [MetaDAO post](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/).  
+Eventually we forsee this funding becoming a voluntary _ecosystem tax_ paid on an ongoing basis as noted in this [MetaDAO post](https://commonwealth.im/edgeware/proposal/discussion/513-metadao-pooling-onchain-funding-for-public-good-proposals/).  
+
+> the idea would be to research a range of core issues facing fully on-chain economies that that are setting out to escape centralisation vectors and to create a 'Meta DAO' to address them that benefits from ongoing investment from a range of projects.
+> 
+> Chains commit some funding (say 2%) of funds as some sort of opt-in public duty and others are also invited to contribute.
+> 
+> By decentralising on chain treasuries you begin to get something akin to a global public good fund... 
 
 ### Proposals
 
@@ -245,8 +251,8 @@ The requirements have been prioritised via the MoSCoW approach.
 - be operated as a publicly owned and operated entity.
 - commission partners to develop projects that advance the mission.
 - be capable of holding a wide range of cross-chain crypto-assets including currencies and tokens.
-- be operated in a secure, auditable and regulatory compliant manner. 
-- be managed via an transparent, intuitive and scalable governance system ("Mother DAO").         
+- be operated in a secure, auditable and transparent manner. 
+- be managed via an transparent, intuitive and scalable governance system ("MetaDAO").         
 
 **SHOULD**
 - prioritise initial investment from on-chain treasuries to ensure transparent public ownership.
