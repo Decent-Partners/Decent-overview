@@ -87,6 +87,7 @@ Decred is the first in what may well later be defined as the third generation of
 > For a while, skeptics asked what $DCR's raison d'être was...
 > 
 > IMO the turning point for people realizing @decredproject's ability to bring valuable services to the world was #DCRDEX, which has seen rapid uptake as a privacy-preserving, hard-money #DEX:
+> 
 > [Chris Burniske](https://twitter.com/cburniske/status/1362146222623002626)
 
 On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of the community it represents.
