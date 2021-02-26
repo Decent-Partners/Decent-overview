@@ -43,11 +43,11 @@ Their ad supported and subscription business models extract ever increasing valu
 Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
 
 ### Why is Web3 media an opportunity worth pursuing? 
-Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a key core component of the Web3 stack. NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be one of 2021's biggest stories, expanding the existing crypto bubble and onboarding many new users in the process.
+Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a core component of the Web3 stack. NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be one of 2021's biggest stories, expanding the existing crypto bubble and onboarding many new users in the process.
 
-However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms and galleries who operate in a Web2 manner, as gatekeepers, owning the creators market and taking a cut. 
+However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms and galleries who operate in a Web2 manner, as gatekeepers, owning the creators' market and taking a cut. 
 
-Recent innovations from projects such as [Zora](https://ourzora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
+Recent innovations from projects such as [Zora](https://zora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
 
 The arrival of creator owned marketplaces levels the playing field further but also supercharges an already individualistic and profit oriented crypto-culture that masks the real opportunity for a new generation of creative communities to share ownership in the emergent stories, shows and worlds they build together.
 
@@ -139,7 +139,7 @@ The funding request is for an initial £1m in EDG.
 
 This payment ensures Edgeware as a project is a partner and will have a share in any future token issuance.
 
-The ambition is to onboard other chain treasuries over time, leveraging not just their fiances but their unique technological and cultural characteristics. 
+The ambition is to onboard other chain treasuries over time, leveraging not just their finances but their unique technological and cultural characteristics. 
 
 Eventually we forsee this funding becoming a voluntary _ecosystem tax_ paid on an ongoing basis as noted in this [MetaDAO post](https://commonwealth.im/edgeware/proposal/discussion/513-metadao-pooling-onchain-funding-for-public-good-proposals/).  
 
@@ -488,7 +488,7 @@ Partners
 - shape the analytics backend traversals over graph indices
 - produce a series of reports and graphical representation of the acquired data and business metrics
 - activate a series of clustering techniques to identify unexpected patterns in data
-- develop [anayltics for Web3 media](art-analytics-use-case.md)
+- develop [analytics for Web3 media](art-analytics-use-case.md)
 
 **SHOULD**
 - produce a risk profile associated to NFTs
