@@ -20,8 +20,8 @@ This is a long post, here are the key points.
 - Anyone can propose a project to the cooperative.  
 - Proposals assign some rights to the fund in return for receiving a grant (e.g NFTs).  
 - These NFTs are held in a reserve that #neversellsout. 
-- You build reputation by delivering stuff - e.g. becoming a 'Partner'.
-- Partners ultimately govern the multisig which decentralises governance over time. 
+- You build reputation by delivering stuff, becoming a 'partner' in the process.
+- Partners ultimately govern the multisig which ensures governance decentralises over time. 
 - Rinse and repeat...
 
 - _(a little later)_... a publicly owned, operated and accessed Web3 media ecosystem emerges. 
