@@ -196,10 +196,11 @@ Decent Partners is the bootstrapping entity for the cooperative, its role is to 
 - [KodaDot](https://kusama.polkassembly.io/post/384): Universal NFT explorer and marketplace interface for Substrate networks
 - [Everknow](https://everknow.it): Next generation smart contracts and marketplaces.
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
+- [Vacuumlabs](https://vacuumlabs.com): Secure and reliable next generation financial tools and systems. 
 - [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
 - [Four To The Floor](https://fttf.tv): MTV for the crypto-generation. 
 - [ACJR](https://acjr.network/): The Association of Cryptocurrency Journalists and Researchers.
-- [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space. 
+- [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space.
 - [Auto Fabrica](https://autofabrica.com): A multidisciplinary mobility design collective.  
 - [Weapons of Reason](https://weaponsofreason.com): Making it easier to understand complex global issues.
 - [Maia Pictures](https://maia.pictures): Nurturing the next generation of writing talent. 
