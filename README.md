@@ -22,7 +22,7 @@ This is a long post, here are the key points.
 
 - Anyone can propose a project to the cooperative.  
 
-- Proposals assign some rights to the fund in return for funding (e.g unique NFTs).  
+- Proposals assign some rights to the fund in return for receiving a grant (e.g unique NFTs).  
 
 - These NFTs are held in a reserve. #Neversellout. 
 
