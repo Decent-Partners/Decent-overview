@@ -10,6 +10,30 @@ By developing the proposal on Github every change is historically traceable and 
 
 This community created roadmap outlines a path to building a publicly owned, operated and accessed Web3 media ecosystem. 
 
+### TL:DR
+
+This is a long post, here are the key points.
+
+- The aim is to create a committed pool of funds governed via a multisig and integrated into [Commonwealth](https://commonwealth.im/decent). 
+
+- We unite a diverse set of people with different skills, experiences and networks who are broadly aligned on the direction.
+
+- This cooperative agrees some values and establishes some norms, these evolve over time. 
+
+- Anyone can propose a project to the cooperative.  
+
+- Proposals assign some rights to the fund in return for funding (e.g unique NFTs).  
+
+- These NFTs are held in a reserve. #Neversellout. 
+
+- You build reputation by delivering stuff - e.g. becoming a 'Partner'.
+
+- Partners ultimately govern the multisig which decentralises governance over time. 
+
+- Rinse and repeat...
+
+- later... a publicly owned, operated and accessed Web3 media ecosystem emerges. 
+
 ### What is Web3 media? 
 Let's start by defining Web2 media:
 
