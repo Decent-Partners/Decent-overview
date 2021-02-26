@@ -179,11 +179,11 @@ When a prospective partner successfully delivers a proposal as judged by their p
 
 This approach ensures a [progressive decentralisation](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/) of the MetaDAO.
 
-Partners will eventually be granted shared ownership in line with contributions via the issuance of a community token.
+Partners may eventually be granted shared ownership in line with contributions via the issuance of a community token.
 
 The issuance of that token will be subject to the delivery of proposals. 
 
-This token will be backed by the cooperatives reserve. 
+If there is a token it will be backed by the cooperative's reserve. 
 
 -------------------
 ### Prospective Partners
@@ -194,11 +194,11 @@ Decent Partners is the bootstrapping entity for the cooperative, its role is to 
 - [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
 - [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
-- [Lemonade Money](https://lemonademoney.tv): Creative studio at busy building worlds. 
+- [Lemonade Money](https://lemonademoney.tv): Creative studio busy building worlds. 
 - [KodaDot](https://kusama.polkassembly.io/post/384): Universal NFT explorer and marketplace interface for Substrate networks
 - [Everknow](https://everknow.it): Next generation smart contracts and marketplaces.
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
-- [Vacuumlabs](https://vacuumlabs.com): Secure and reliable next generation financial tools and systems. 
+- [Vacuumlabs](https://vacuumlabs.com): Creators of secure and reliable next generation Web3 financial tools and systems.
 - [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
 - [Four To The Floor](https://fttf.tv): MTV for the crypto-generation. 
 - [ACJR](https://acjr.network/): The Association of Cryptocurrency Journalists and Researchers.
