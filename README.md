@@ -6,7 +6,9 @@ Decent
 ### Introduction
 This working document will form the basis for the upcoming Decent Partners proposal to the Edgeware treasury. 
 
-It follows from an [initial outline proposal](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project) which has been further refined here. 
+It follows from this [initial outline proposal](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
+
+The proposal takes learnings from both coordinating Edgeware and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
 
 By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
 
@@ -208,7 +210,7 @@ Decent Partners is the bootstrapping entity for the cooperative, its role is to 
 - [Maia Pictures](https://maia.pictures): Nurturing the next generation of writing talent. 
 
 -------------------
-### Areas of interest
+### Areas of interest and focus
 
 The following outlines a comprehensive but non-exhaustive set of requirements that will enable the cooperative to achieve its mission. 
 
