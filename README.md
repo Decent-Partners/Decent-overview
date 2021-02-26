@@ -139,9 +139,7 @@ Decent's vision is to reimagine public service broadcasting for a networked worl
 
 The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
 
-The funding request is for an initial £1m in EDG. 
-
-This payment ensures Edgeware as a project is a partner and will have a share in any future token issuance.
+The funding request is for an initial £1m in EDG in return for value returned to the chain in a number of ways. 
 
 The ambition is to onboard other chain treasuries over time, leveraging not just their finances but their unique technological and cultural characteristics. 
 
