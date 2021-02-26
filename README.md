@@ -15,11 +15,11 @@ This community created roadmap outlines a path to building a publicly owned, ope
 This is a long post, here are the key points.
 
 - The aim is to create a committed pool of funds governed via a multisig and integrated into [Commonwealth](https://commonwealth.im/decent). 
-- We unite a diverse set of people with different skills, experiences and networks who are broadly aligned on the direction.
+- We unite a diverse set of people with different skills, experiences and networks who are broadly aligned on a north star.
 - This cooperative agrees some values and establishes some norms, these evolve over time. 
 - Anyone can propose a project to the cooperative.  
-- Proposals assign some rights to the fund in return for receiving a grant (e.g unique NFTs).  
-- These NFTs are held in a reserve. #Neversellout. 
+- Proposals assign some rights to the fund in return for receiving a grant (e.g NFTs).  
+- These NFTs are held in a reserve that #neversellsout. 
 - You build reputation by delivering stuff - e.g. becoming a 'Partner'.
 - Partners ultimately govern the multisig which decentralises governance over time. 
 - Rinse and repeat...
