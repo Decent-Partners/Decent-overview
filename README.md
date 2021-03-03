@@ -18,7 +18,7 @@ This community created roadmap outlines a path to building a publicly owned, ope
 
 This is a long post, here are the key points.
 
-- The aim is to create a committed pool of funds governed via a [multisig](https://academy.binance.com/en/articles/what-is-a-multisig-wallet) and integrated into [Commonwealth](https://commonwealth.im/decent). 
+- The aim is to create a committed pool of funds governed via a [multisig wallet](https://academy.binance.com/en/articles/what-is-a-multisig-wallet) and integrated into [Commonwealth](https://commonwealth.im/decent). 
 - We unite a diverse set of people with different skills, experiences and networks who are broadly aligned on a north star.
 - This cooperative agrees some values and establishes some norms, these evolve over time. 
 - Anyone can propose a project to the cooperative.  
