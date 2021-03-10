@@ -8,7 +8,7 @@ This working document will form the basis for the upcoming Decent Partners propo
 
 It follows from this [initial outline proposal](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
 
-The proposal takes learnings from both coordinating Edgeware and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
+The proposal takes learnings from both coordinating both [Edgeware](https://edgewa.re) and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
 
 By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
 
