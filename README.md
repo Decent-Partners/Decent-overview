@@ -185,8 +185,6 @@ The issuance of that token will be subject to the delivery of proposals.
 
 If there is a token it will be backed by the cooperative's reserve. 
 
-![community networks](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/Community%20Networks.png)
-
 -------------------
 ### Prospective Partners
 
