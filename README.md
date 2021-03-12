@@ -16,18 +16,30 @@ This community created roadmap outlines a path to building a publicly owned, ope
 
 ### TL:DR
 
-This is a long post, here are the key points.
+This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of Decent:
 
-- The aim is to create a committed pool of funds governed via a [multisig wallet](https://academy.binance.com/en/articles/what-is-a-multisig-wallet) and integrated into [Commonwealth](https://commonwealth.im/decent). 
-- We unite a diverse set of people with different skills, experiences and networks who are broadly aligned on a north star.
-- This cooperative agrees some values and establishes some norms, these evolve over time. 
-- Anyone can propose a project to the cooperative.  
-- Proposals assign some rights to the fund in return for receiving a grant (e.g NFTs).  
-- These NFTs are held in a reserve that #neversellsout. 
-- You build reputation by proposing and delivering projects, becoming a 'partner' in the process.
-- Partners ultimately govern the multisig which ensures governance decentralises over time. 
+- There are many things in life that 'the market' cannot price. 
+- A new generation of blockchains with native treasuries and governance enable the sustainable funding of global public goods.
+- The most valuable NFTs will not be bought or sold - they will be earned and assigned. 
+- NFTs can become the asset backing underpinning community led token economies.  
+- Collectively created community rights will enable story worlds that will dwarf the 21st century's most valuable IP.
+
+Here is the **1 minute primer**:
+
+- Decent is a community network - similar to a cooperative, just with digital native as well as some legal components. 
+- Decent is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
+- These funds are used to develop public good projects that expand the usefulness of those chains. 
+- Funds are governed by partners via a multisig wallet and integrated into the [Commonwealth interface](https://commonwealth.im/decent).
+- Decent unites a diverse set of people with different skills, experiences and networks who are broadly aligned on the development of a Web3 media ecosystem. 
+- The community agrees some values, establishes some standards and evolves the culture over time.
+- Anyone can propose a project to the community via an open and permissionless proposal system. 
+- On-chain reputation is developed over time by proposing and delivering projects. This is the path to becoming a 'partner'.
+- Proposals assign some rights (represented as NFTs) to the community in return for receiving a grant.
+- These NFTs are held in a reserve that #neversellsout and represents the 'fundamental' value of the community.
+- Partners retain ownership of these rights and have the right to withdraw them as long as they have completed their deliverables.
+- Partners ultimately govern the multisig which ensures governance decentralises over time.
+- Initially a UK legal entity exists to onboard Partners and provide legal assurances, this will eventually be dissolved.
 - Rinse and repeat...
-
 - _(a little later)_... a publicly owned, operated and accessed Web3 media ecosystem emerges. 
 
 ### What is Web3 media? 
@@ -169,9 +181,13 @@ You can view a WIP financial forecast for the fund [here](https://docs.google.co
 
 Decent's approach to 'good governance' is focused on developing trust between its partners through the successful delivery of proposals.
 
+We are also following some of [Nexus Mutual's](https://nexusmutual.gitbook.io/docs/users/docs#legal-framework) governance templates and linking a UK based company to smart contracts that can bridge the old world and the new, both as a way of onboarding Partners, as a way to ensure some legal assurances and to interface on-chain and off-chain agreements which will become important with the assignment of NFTs. 
+
 If funded this proposal constitutes the first _approved_ proposal.  
 
 The authors will be elected initially as a council of founding partners ("the council") via an n of m multisig.
+
+Per Nexus Mutual, we will institute an ['Overthrow Control'](https://nexusmutual.gitbook.io/docs/users/docs#decentralisation-trade-offs) enabling any Partners to replace a council member at any time.   
 
 Existing partners vote to approve or reject proposals from prospective partners. 
 
@@ -183,14 +199,14 @@ Partners may eventually be granted shared ownership in line with contributions v
 
 The issuance of that token will be subject to the delivery of proposals. 
 
-If there is a token it will be backed by the cooperative's reserve. 
+If there is a token it will be backed by the cooperative's reserve.  
 
 ![community networks](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/Community%20Networks.png)
 
 -------------------
 ### Prospective Partners
 
-Decent Partners is the bootstrapping entity for the cooperative, its role is to push forward the cooperative to a point where it is governed by a wide range of partners who successfully propose and deliver projects across a wide range of areas.
+Decent Partners is the bootstrapping entity for the cooperative on both the digital and real world side, its role is to push forward the cooperative to a point where it is governed by a wide range of partners who successfully propose and deliver projects across a wide range of areas. 
 
 - [Decent Partners](https://decent.partners): Decent develops community networks that are funded, governed and owned by the people they represent.
 - [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
@@ -198,11 +214,11 @@ Decent Partners is the bootstrapping entity for the cooperative, its role is to 
 - [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
 - [Lemonade Money](https://lemonademoney.tv): Creative studio busy building worlds. 
 - [KodaDot](https://kusama.polkassembly.io/post/384): Universal NFT explorer and marketplace interface for Substrate networks
-- [Everknow](https://everknow.it): Next generation smart contracts and marketplaces.
+- [Everknow](https://everknow.it): Next generation smart contracts.
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
 - [Vacuumlabs](https://vacuumlabs.com): Creators of secure and reliable next generation Web3 financial tools and systems.
 - [New-Futures](https://new-futures.co): Curated drops from established and emerging artists that explore new possibilities in NFTs.
-- [Four To The Floor](https://fttf.tv): MTV for the crypto-generation. 
+- [Four To The Floor](https://fttf.tv): MTV for the crypto-generation, bringing together the best stories from around the world.  
 - [ACJR](https://acjr.network/): The Association of Cryptocurrency Journalists and Researchers.
 - [Portico Studios](https://theportico.uk): Community run digital studio, gallery and events space.
 - [Auto Fabrica](https://autofabrica.com): A multidisciplinary mobility design collective.  
@@ -223,13 +239,15 @@ Some of these areas have prospective partners ready to propose funding, some are
 5. Creative assets
 6. Reserve 
 7. Creator owned marketplaces
-8. Marketplace and Backend API
-9. Interoperability
-10. Community networks
-11. Community rights
-12. Original media, editorial and research
-13. Apps, Interfaces & Experiences
-14. Research & Development
+8. Creator focused defi 
+9. Marketplace and Backend API
+10. Interoperability
+11. Community networks
+12. Community rights
+13. Original media, editorial and research
+14. Apps, Interfaces & Experiences
+15. Research & Development
+16. Collective Intelligence
 
 _N.B. Where conflicts arise **COOPERATIVE VALUES** will take precedence._ 
 
@@ -353,14 +371,19 @@ Partners
 **COULD** 
 - support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
 
-### 8. MARKETPLACE & BACKEND API
+### 8. CREATOR FOCUSED DEFI
 
 **MUST**
 - produce a comprehensive collection of UI widgets and components to be customised by customers to enable their market place.
 - include a series of telemetry information derived from the customer use to feed in the business intelligence analytics
 - support integration with the backend API
 
+### 9. MARKETPLACE & BACKEND API
+
 **MUST**
+- produce a comprehensive collection of UI widgets and components to be customised by customers to enable their market place.
+- include a series of telemetry information derived from the customer use to feed in the business intelligence analytics
+- support integration with the backend API
 - support simple creation of NFT and Semi-Fungible smart contracts
 - support simple creation of smart contracts on EVM compatible substrate chains and on WASM Substrate chains & 
 - support the definition of token types for the submitted smart contracts
@@ -370,8 +393,6 @@ Partners
 - support the non state change querying for smart contract data
 - the subscription for smart contracts events (e.g. via websocket)  
 - expose a simple REST/GraphQL api     
-
-**SHOULD** 
 - support the integration with existing popular marketplaces
 - evangelise and influence popular marketplaces to embrace our API
 - act as a consultancy to onboard organisation on our API
@@ -383,11 +404,11 @@ Partners
 
 **SHOULD** 
 - demonstrate and document (via official documentation and blogposts) the simple integration and composability of the API with the UI components on representative use cases (e.g. softspot, zora etc..)
-- 
+
 **COULD** 
 - support a number of non substrate chains via bridges
 
-### 9. INTEROPERABILITY
+### 10. INTEROPERABILITY
 
 Partners 
 **MUST**
@@ -406,14 +427,12 @@ Partners
 - produce a tool to support cross chain identity profiling for poular chains (DIDs could inspire this work)
 - extend a graph indexing facility to operate cross chain for popular chains
 
-### 10. COMMUNITY NETWORKS
+### 11. COMMUNITY NETWORKS
 
 Partners 
 **SHOULD**
-- develop creative networks with entities such as MoCDA, FTTF, New-Futures, Auto Fabrica, Weapons of Reason.
+- develop creative networks as Layer 3 DAOs with entities such as MoCDA, FTTF, New-Futures, Auto Fabrica, Weapons of Reason.
 - prioritise long term development of emerging talent and ideas over more established or 'mainstream' talent.
-
-**SHOULD**
 - enable artists, creators and organisations to easily fund, govern and manage their own entities.
 - enable creative assets to be packaged into higher order entities ("community IP"). 
 - enable the issuance of loans, backed by creative assets ("creative collateral") to enable additional sales.
@@ -426,7 +445,7 @@ Partners
 - trade its tokens on third party exchanges.
 - engage in promotional distribution strategies to drive adoption of its tokens.
 
-### 11. COMMUNITY RIGHTS 
+### 12. COMMUNITY RIGHTS 
 
 **SHOULD**
 - be researched, defined and documented as a new form of collective rights management that empowers digital creators.
@@ -436,7 +455,7 @@ Partners
 **COULD** 
 - be profitably licensed by 3rd party media entities, services or organisations. 
 
-### 12. ORIGINAL MEDIA, EDITORIAL & RESEARCH
+### 13. ORIGINAL MEDIA, EDITORIAL & RESEARCH
 
 Partners
 **MUST** 
@@ -449,7 +468,7 @@ Partners
 - make educational, inspiring and entertaining content that connects and engages with a global audience.
 - experiment with new mechanisms for the discovery, distribution and utility of creative assets - for example NFTs embedded in series triggered by audio.  
 
-### 13. APPS,INTERFACES & EXPERIENCES
+### 14. APPS,INTERFACES & EXPERIENCES
 
 **MUST** 
 - develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
@@ -460,7 +479,7 @@ Partners
 - create a service that aggregates the output of all creative networks through a globally accessible service.
 - develop a publicly owned, operated and accessible Web3 media streaming service. 
 
-### 14. RESEARCH & DEVELOPMENT
+### 15. RESEARCH & DEVELOPMENT
 
 Partners 
 **MUST**
@@ -477,7 +496,7 @@ Partners
 - research scalability and parallelism
 - research social scalability and governance
 
-### 15. COLLECTIVE INTELLIGENCE
+### 16. COLLECTIVE INTELLIGENCE
 
 Partners 
 **MUST**
@@ -493,13 +512,12 @@ Partners
 - produce a series of reports and graphical representation of the acquired data and business metrics
 - activate a series of clustering techniques to identify unexpected patterns in data
 - develop [analytics for Web3 media](art-analytics-use-case.md)
-
-**SHOULD**
 - produce a risk profile associated to NFTs
 - produce a risk profile associated to collectors and investors
 
 **COULD** 
 - produce a risk management tool for the partners and affiliates organisations
+
 
 
 
