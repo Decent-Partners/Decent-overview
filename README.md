@@ -134,7 +134,7 @@ With this in place, the basic building blocks for global, decentralised and perm
 
 -------------------
 
-![decent1](https://github.com/Decent-Partners/decent-overview/blob/main/Background%20logo.png)
+![decent1](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/Background%20logo.png)
 
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund") that receives investment from chain treasuries.  
