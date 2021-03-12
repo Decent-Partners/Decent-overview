@@ -54,7 +54,7 @@ Once the rebellious upstarts, these platforms are now the establishment, concent
 
 Their ad supported and subscription business models extract ever increasing value from the creative talent on which they depend, whilst creating increasingly perverse incentives for those that use and consume digital media, with profound consequences for all areas of society.  
 
-![adsvssubs](https://github.com/Decent-Partners/decent-overview/blob/main/ads%20vs%20subs.png)
+![adsvssubs](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/ads%20vs%20subs.png)
 
 Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
 
