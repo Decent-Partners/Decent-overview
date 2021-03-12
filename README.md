@@ -21,7 +21,7 @@ This is a long post, here are some primers, starting with a few **core insights*
 - There are many things that 'the market' cannot price. 
 - A new generation of blockchains with native treasuries and governance enable the sustainable funding of global public goods.
 - The most valuable NFTs will not be bought or sold - they will be earned and assigned. 
-- NFTs can become the asset backing underpinning community led token economies.  
+- NFTs can be pooled to create asset backed community token economies.  
 - Collectively created community rights will enable story worlds that will dwarf the 21st century's most valuable IP.
 
 Here is a **1 minute primer**:
