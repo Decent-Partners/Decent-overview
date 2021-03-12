@@ -88,7 +88,7 @@ In the old world the role of consistently funding bold new thinking was fulfille
 
 Absolved of commercial imperative, public broadcasting rose to become the 20th century’s most trusted and effective communications initiative, able to report on local, national and global news, elevate daring storytellers, document culture, societies and the natural world, spotlight emerging areas of research outside mainstream discourse of the time, continually fund bold technological advances in communication - informing, educating and entertaining young and old minds alike.
 
-![balance](https://github.com/Decent-Partners/decent-overview/blob/main/balance.png)
+![balance](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/balance.png)
 
 At their inception they were revolutionary institutions, but over time their technological advantages have been usurped, their systems of governance have calcified and the creative invention of their contributors has waned.
 
