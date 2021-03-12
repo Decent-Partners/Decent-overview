@@ -130,7 +130,7 @@ When sustainable funding from community owned treasuries is matched to multi-sig
 
 With this in place, the basic building blocks for global, decentralised and permissionless public service media are here.
 
-![metaDAO](https://github.com/Decent-Partners/decent-overview/blob/main/metaDAO1.png)
+![metaDAO](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/metaDAO.png)
 
 -------------------
 
