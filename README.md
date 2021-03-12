@@ -16,15 +16,15 @@ This community created roadmap outlines a path to building a publicly owned, ope
 
 ### TL:DR
 
-This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of Decent:
+This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of the project:
 
-- There are many things in life that 'the market' cannot price. 
+- There are many things that 'the market' cannot price. 
 - A new generation of blockchains with native treasuries and governance enable the sustainable funding of global public goods.
 - The most valuable NFTs will not be bought or sold - they will be earned and assigned. 
 - NFTs can become the asset backing underpinning community led token economies.  
 - Collectively created community rights will enable story worlds that will dwarf the 21st century's most valuable IP.
 
-Here is the **1 minute primer**:
+Here is a **1 minute primer**:
 
 - Decent is a community network - similar to a cooperative, just with digital native as well as some legal components. 
 - Decent is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
@@ -373,10 +373,9 @@ Partners
 
 ### 8. CREATOR FOCUSED DEFI
 
-**MUST**
-- produce a comprehensive collection of UI widgets and components to be customised by customers to enable their market place.
-- include a series of telemetry information derived from the customer use to feed in the business intelligence analytics
-- support integration with the backend API
+**SHOULD**
+- develop defi solutions to solve problems for creators in Web3 media. 
+- develop defi alternatives to traditional media and production insurance with [Nexus Mutual](https://twitter.com/monsieurbulb/status/1370290164120088578)
 
 ### 9. MARKETPLACE & BACKEND API
 
