@@ -6,37 +6,37 @@ Decent
 ### Introduction
 This working document will form the basis for the upcoming Decent Partners proposal to the Edgeware treasury. 
 
-It follows from this [initial outline proposal](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
+It follows from this [initial outline post](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
 
-The proposal takes learnings from both coordinating both [Edgeware](https://edgewa.re) and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
+The proposal takes learnings from coordinating and scaling [Edgeware's](https://edgewa.re) creative contributions and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
 
 By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
 
-This community created roadmap outlines a path to building a publicly owned, operated and accessed Web3 media ecosystem. 
+This community created roadmap outlines a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
 
 ### TL:DR
 
 This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of the project:
 
-- There are many things that 'the market' cannot price. 
+- There are many things that 'the market' does not price well - the funding of arts and culture for example. 
 - A new generation of blockchains with native treasuries and governance enable the sustainable funding of global public goods.
-- The most valuable NFTs will not be bought or sold - they will be earned and assigned. 
-- NFTs can be pooled to create asset backed community token economies.  
+- The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
+- NFTs can be pooled to create asset backed community token economies. 
 - Collectively created community rights will enable story worlds that will dwarf the 21st century's most valuable IP.
 
 Here is a **1 minute primer**:
 
-- Decent is a community network - similar to a cooperative, just with digital native as well as some legal components. 
+- Decent is a community network - similar to a traditional cooperative that bridges tokens and legal components. 
 - Decent is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
 - These funds are used to develop public good projects that expand the usefulness of those chains. 
 - Funds are governed by partners via a multisig wallet and integrated into the [Commonwealth interface](https://commonwealth.im/decent).
 - Decent unites a diverse set of people with different skills, experiences and networks who are broadly aligned on the development of a Web3 media ecosystem. 
 - The community agrees some values, establishes some standards and evolves the culture over time.
-- Anyone can propose a project to the community via an open and permissionless proposal system. 
+- Anyone can propose a project to the community via the open and permissionless proposal system. 
 - On-chain reputation is developed over time by proposing and delivering projects. This is the path to becoming a 'partner'.
 - Proposals assign some rights (represented as NFTs) to the community in return for receiving a grant.
 - These NFTs are held in a reserve that #neversellsout and represents the 'fundamental' value of the community.
-- Partners retain ownership of these rights and have the right to withdraw them as long as they have completed their deliverables.
+- Partners retain ownership of these rights and can withdraw them at any time once they have delivered their proposal.
 - Partners ultimately govern the multisig which ensures governance decentralises over time.
 - Initially a UK legal entity exists to onboard Partners and provide legal assurances, this will eventually be dissolved.
 - Rinse and repeat...
@@ -94,7 +94,7 @@ At their inception they were revolutionary institutions, but over time their tec
 
 ### Public service media in a networked era 
 
-The privatisation of the public sphere and rise of social networks has left the internet without a compelling solution to the creation of global public benefit institutions, at a point in time when universally trusted, transparently funded and culturally relevant information is desperately needed.
+The privatisation of the public sphere and rise of social networks has left the internet without a solution to the creation of global public benefit institutions, at a point in time when universally trusted, transparently funded and culturally relevant information is desperately needed.
 
 However there is good news - when empowered to follow their own curiosities and passions, it turns out that people are not as profit oriented as many would believe. The internet and the world wide web — and the extraordinary revolutions they have sparked were released as free, open source software, with a central ideal of open access for all.
 
@@ -114,7 +114,7 @@ Real value is not bought, it is built - by collective endeavours focused on long
 >  
 > [Decred website](https://decred.org/sustainability/)
 
-Decred is the first in what may well later be defined as the third generation of blockchains after Bitcoin and Ethereum. It is one of a new breed that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the funding of open source technology. 
+Decred is the first in what may well later be defined as the third generation of blockchains after Bitcoin and Ethereum. It is one of a new breed that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the ongoing funding of open source technology. 
 
 > For a while, skeptics asked what $DCR's raison d'être was...
 > 
