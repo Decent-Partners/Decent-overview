@@ -38,8 +38,9 @@ Here is a **1 minute primer**:
 - Proposals assign some rights (represented as NFTs) to the community in return for receiving a grant.
 - These NFTs are held in a reserve that #neversellsout and represents the 'fundamental' value of the community.
 - Partners retain ownership of these rights and can withdraw them at any time once they have delivered their proposal.
-- Partners ultimately govern the multisig which ensures governance decentralises over time.
+- Partners ultimately govern the multisig which ensures governance of the project decentralises over time.
 - Initially a UK legal entity exists to onboard Partners and provide legal assurances, this will eventually be dissolved.
+- Decent will eventually become the foundations on which other community networks come together and launch. 
 - Rinse and repeat...
 - _(a little later)_... a publicly owned, operated and accessed Web3 media ecosystem emerges. 
 
