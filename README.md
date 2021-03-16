@@ -61,7 +61,9 @@ Their ad supported and subscription business models extract ever increasing valu
 Web3 media by contrast relies on open source protocols and blockchains to ensure public ownership, operations and access.   
 
 ### Why is Web3 media an opportunity worth pursuing? 
-Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a core component of the Web3 stack. NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be one of 2021's biggest stories, expanding the existing crypto bubble and onboarding many new users in the process.
+Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a core component of the Web3 stack. 
+
+NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be [2021's biggest stories](https://www.bbc.co.uk/news/technology-56362174), expanding the existing crypto bubble and onboarding many new users in the process.
 
 However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms and galleries who operate in a Web2 manner, as gatekeepers, owning the creators' market and taking a cut. 
 
