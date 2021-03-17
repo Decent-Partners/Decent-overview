@@ -27,12 +27,12 @@ This is a long post, here are some primers, starting with a few **core insights*
 
 Here is a **2 minute primer**:
 
-- Decent is a community network - similar to a traditional cooperative that bridges tokens and legal components. 
-- Decent is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
+- Decent is a community network - think a digital cooperative that bridges both tokens and legal elements. 
+- The project is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
 - These funds are used to develop public good projects that also expand the usefulness of the underlying chains. 
 - Funds are governed by partners via a multisig wallet and integrated into the [Commonwealth interface](https://commonwealth.im/decent).
 - Decent's primary focus is on the development of a sustainably funded, collectively owned and openly accessible Web3 media ecosystem. 
-- The emerging community will work together to establish core values, define open standards and evolves the culture over time.
+- The emerging community will work together to establish core values, define open standards and evolve the culture over time.
 - Anyone can propose a project to the community via an open and permissionless proposal system. 
 - On-chain reputation is developed over time by proposing and delivering projects. This is the path to becoming a 'partner'.
 - Proposals assign some rights (represented as NFTs) to the community in return for receiving a grant.
