@@ -25,7 +25,7 @@ This is a long post, here are some primers, starting with a few **core insights*
 - NFTs can be pooled to create **asset backed community token economies**. 
 - Collectively created **community rights** will enable story worlds that will dwarf the 21st century's most valuable IP.
 
-Here is a **1 minute primer**:
+Here is a **2 minute primer**:
 
 - Decent is a community network - similar to a traditional cooperative that bridges tokens and legal components. 
 - Decent is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
