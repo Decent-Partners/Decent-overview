@@ -215,8 +215,8 @@ Decent Partners is the bootstrapping entity for the cooperative on both the digi
 - [Decent Partners](https://decent.partners): Decent develops community networks that are funded, governed and owned by the people they represent.
 - [Edgeware](https://edgewa.re): Fairly launched smart contract chain and publc goods fund in the Polkadot ecosystem. 
 - [Commonwealth](https://commonwealth.im): Discuss, organize, and grow decentralized communities.
-- [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
 - [Lemonade Money](https://lemonademoney.tv): Creative studio busy building worlds. 
+- [DatDot](https://datdot.org/): An autonomous hosting network for p2p data systems.
 - [KodaDot](https://kusama.polkassembly.io/post/384): Universal NFT explorer and marketplace interface for Substrate networks
 - [Everknow](https://everknow.it): Next generation smart contracts.
 - [MoCDA](https://mocda.org): Advancing the position of digital art in a global context through curatorial insight and education.
