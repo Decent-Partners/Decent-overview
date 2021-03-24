@@ -12,15 +12,15 @@ The proposal takes learnings from coordinating and scaling [Edgeware's](https://
 
 By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
 
-This community created roadmap outlines a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
+This roadmap sets out a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
 
 ### TL:DR
 
 This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of the project:
 
 - There are many things that 'the market' does not price well - the **funding of arts and culture** for example. 
-- A new generation of blockchains with native treasuries and governance enable the sustainable funding of **global public goods**.
-- Token tribalism distracts from the **fundamental values** that many blockchain projects share. 
+- A new generation of blockchains with on-chain treasuries and governance enable the sustainable funding of **global public goods**.
+- Token tribalism distracts from the **fundamental values** that many blockchain communities share. 
 - The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
 - NFTs can be pooled to create **asset backed community token economies**. 
 - Collectively created **community rights** will enable story worlds that will dwarf the 21st century's most valuable IP.
