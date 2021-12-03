@@ -24,7 +24,7 @@ This is a long post, here are some primers, starting with a few **core insights*
 - The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
 - NFTs can be pooled to create **asset backed community token economies**. 
 - Collectively created **community rights** will enable story worlds that will dwarf the 21st century's most valuable IP.
-- These insights can combine to enable a novel **Store of Values** design that can sustain and scale community currencies over the long term.   
+- These insights combine to enable a novel **Store of Values** design that can sustain and scale community currencies over the long term.   
 
 Here is a **2 minute primer**:
 
