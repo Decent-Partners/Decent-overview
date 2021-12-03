@@ -4,33 +4,35 @@ Decent
 -------------------
 
 ### Introduction
-This working document will form the basis for the upcoming Decent Partners proposal to the Edgeware treasury. 
+This working document is less a formalised roadmap and more a compass that will be periodically adjusted as we correct course.
+
+We set out a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
 
 It follows from this [initial outline post](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
 
-The proposal takes learnings from coordinating and scaling [Edgeware's](https://edgewa.re) creative contributions and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
+The outline takes learnings from coordinating and scaling [Edgeware's](https://edgewa.re) creative contributions and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
 
-By developing the proposal on Github every change is historically traceable and can be updated in line with progress.
-
-This roadmap sets out a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
+By developing this on Github every change is historically traceable and can be updated in line with progress.
 
 ### TL:DR
 
 This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of the project:
 
 - There are many things that 'the market' does not price well - the **funding of arts and culture** for example. 
-- A new generation of blockchains with on-chain treasuries and governance enable the sustainable funding of **global public goods**.
+- A new generation of blockchains with on-chain treasuries and governance enable the funding of **global public goods**.
 - Token tribalism distracts from the **fundamental values** that many blockchain communities share. 
 - The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
 - NFTs can be pooled to create **asset backed community token economies**. 
 - Collectively created **community rights** will enable story worlds that will dwarf the 21st century's most valuable IP.
+- These insights can combine to enable a novel **Store of Values** design that can sustain and scale community currencies over the long term.   
 
 Here is a **2 minute primer**:
 
-- Decent is a community network - think a digital cooperative that bridges both tokens and legal elements. 
-- The project is sourcing a committed pool of funds from multiple chain treasuries starting with Edgeware.
-- These funds are used to develop public good projects that also expand the usefulness of the underlying chains. 
-- Funds are governed by partners via a multisig wallet and integrated into the [Commonwealth interface](https://commonwealth.im/decent).
+- Decent Partners is a community network - think a digital cooperative that bridges internet native (DAOs) and traditional organisations (Companies).   
+- We onboard people and projects to chain DAOs in return for a 10% network service fee and assignment of genesis NFTs where relevant.   
+- Currently we work with [Edgeware](https://edgewa.re) and are also incubating [Kabocha](https://kabocha.network). 
+- Earned assets (fungible and non-fungible) are used to develop public good projects that also expand the usefulness of the underlying chains. 
+- Funds are governed by partners via a multisig wallet.
 - Decent's primary focus is on the development of a sustainably funded, collectively owned and openly accessible Web3 media ecosystem. 
 - The emerging community will work together to establish core values, define open standards and evolve the culture over time.
 - Anyone can propose a project to the community via an open and permissionless proposal system. 
