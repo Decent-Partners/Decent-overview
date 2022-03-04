@@ -8,7 +8,7 @@ This working document is less a formalised roadmap and more a compass to be peri
 
 We set out a path towards the development of open, interoperable and sustainably funded **Network Publics**. 
 
-The outline takes learnings from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md), coordinating [Edgeware's](https://edgewa.re) creative contributions and the emergence of **Kabocha** - a first instance of a Network Public. 
+The outline takes learnings from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md), coordinating [Edgeware's](https://edgewa.re) creative contributions and the stewarding of [Kabocha] (https://kabocha.network) - a first instance of a Network Public. 
 
 By developing this on Github every change is historically traceable and can be updated in line with progress.
 
