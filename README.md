@@ -1,6 +1,6 @@
 ![Decent](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/decent.png)
 
-A Network-Public
+Network-Public
 -------------------
 
 ### Introduction
