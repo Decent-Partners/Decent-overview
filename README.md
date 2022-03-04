@@ -1,25 +1,24 @@
 ![Decent](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/decent.png)
 
-Network-Publics
+An Network-Publics
 -------------------
 
 ### Introduction
-This working document is less a formalised roadmap and more a compass that will be periodically adjusted as we correct course.
+This working document is less a formalised roadmap and more a compass to be periodically adjusted as we correct course.
 
-We set out a path to building a publicly owned, operated, accessed and sustainably funded **Web3 media ecosystem**. 
+We set out a path towards the development of open, interoperable and sustainably funded **Network Publics**. 
 
-It follows from this [initial outline post](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project).
-
-The outline takes learnings from coordinating and scaling [Edgeware's](https://edgewa.re) creative contributions and from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md).  
+The outline takes learnings from [Decred's community development](https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md), coordinating [Edgeware's](https://edgewa.re) creative contributions and the emergence of **Kabocha** - a first instance of a Network Public. 
 
 By developing this on Github every change is historically traceable and can be updated in line with progress.
 
 ### TL:DR
 
-This is a long post, here are some primers, starting with a few **core insights** - the big ideas at the heart of the project:
+This is a long post, here are some primers, starting with a few **core insights** at the heart of the project:
 
-- There are many things that 'the market' does not price well - the **funding of arts and culture** for example. 
-- A new generation of blockchains with on-chain treasuries and governance enable the funding of **global public goods**.
+- Market economies are downstream from **public goods** and yet public goods are degraded by **market forces**.  
+- Blockchains enable the creation of sovereign supra-national and hyper-local accounting systems for digital native **publics**. 
+- On-chain governance and treasuries can fund **borderless work forces**. 
 - Token tribalism distracts from the **fundamental values** that many blockchain communities share. 
 - The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
 - NFTs can be pooled to create **asset backed community token economies**. 
