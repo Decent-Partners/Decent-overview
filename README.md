@@ -17,31 +17,30 @@ By developing this on Github every change is historically traceable and can be u
 This is a long post, here are some primers, starting with a few **core insights** at the heart of the project:
 
 - Market economies are downstream from **public goods** and yet public goods are degraded by **market forces**.  
-- Blockchains enable the creation of sovereign supra-national and hyper-local accounting systems for digital native **publics**. 
-- On-chain governance and treasuries can fund **borderless work forces**. 
+- Blockchains enable the creation of sovereign supra-national and hyper-local accounting systems for digital networked **publics**.
 - Token tribalism distracts from the **fundamental values** that many blockchain communities share. 
+- On-chain organisations can coordinate, fund and credit reputation to **borderless creative talent and work forces**. 
 - The most valuable NFTs will likely not be bought or sold - they will be **earned** and **assigned**. 
 - NFTs can be pooled to create **asset backed community token economies**. 
-- Collectively created **community rights** will enable story worlds that will dwarf the 21st century's most valuable IP.
-- These insights combine to enable a novel **Store of Values** design that can sustain and scale community currencies over the long term.   
+- Collectively created **community rights** will enable story worlds that will eventually dwarf the 21st century's most valuable IP and franchaises.
+- These insights combine to enable a novel **Store of Values** design that can sustain and scale digital currencies over the long term.   
 
 Here is a **2 minute primer**:
 
-- Decent Partners is a community network - think a digital cooperative that bridges internet native (DAOs) and traditional organisations (Companies).   
-- We onboard people and projects to chain DAOs in return for a 10% network service fee and assignment of genesis NFTs where relevant.   
-- Currently we work with [Edgeware](https://edgewa.re) and are also incubating [Kabocha](https://kabocha.network). 
+- Decent Partners is a digital cooperative that bridges internet native (DAOs) and traditional organisations (Companies).   
+- We onboard creators and their projects to DAOs in return for a 10% network service fee and assignment of genesis NFTs where relevant.   
+- Currently we work with [Edgeware](https://edgewa.re) and incubated [Kabocha](https://kabocha.network). 
 - Earned assets (fungible and non-fungible) are used to develop public good projects that also expand the usefulness of the underlying chains. 
 - Funds are governed by partners via a multisig wallet.
 - Decent's primary focus is on the development of a sustainably funded, collectively owned and openly accessible Web3 media ecosystem. 
 - The emerging community will work together to establish core values, define open standards and evolve the culture over time.
-- Anyone can propose a project to the community via an open and permissionless proposal system. 
-- On-chain reputation is developed over time by proposing and delivering projects. This is the path to becoming a 'partner'.
-- Proposals assign some rights (represented as NFTs) to the community in return for receiving a grant.
-- These NFTs are held in a reserve that #neversellsout and represents the 'fundamental' value of the community.
+- Anyone can propose a project to the community via an open and permissionless proposal system we call Root.  
+- On-chain reputation is developed over time by proposing and delivering projects. This is the path to becoming a 'Partner'.
+- Proposals assign some rights (represented as NFTs) to the community in return for receiving funding for their creative project.
+- These NFTs are held in a reserve that #neversellsout and represents the 'fundamental' value of Kabocha's currency.  
 - Partners retain ownership of these rights and can withdraw them at any time once they have delivered their proposal.
 - Partners ultimately govern the multisig which ensures governance of the project decentralises over time.
 - Initially a UK legal entity exists to onboard Partners and provide legal assurances, this will eventually be dissolved.
-- Decent will eventually become the foundations on which other community networks come together and launch. 
 - Rinse and repeat...
 - _(a little later)_... a publicly owned, operated and accessed Web3 media ecosystem emerges. 
 
@@ -64,13 +63,11 @@ Web3 media by contrast relies on open source protocols and blockchains to ensure
 ### Why is Web3 media an opportunity worth pursuing? 
 Whilst defi may have have been the major story of 2020 and constitutes the majority of focus in the [Substrate ecosystem](https://www.substrate.io/substrate-users/), NFTs (non-fungible-tokens) are a core component of the Web3 stack. 
 
-NFTs are currently mostly understood through crypto art / media - a connection that is already turning out to be [2021's biggest stories](https://www.bbc.co.uk/news/technology-56362174), expanding the existing crypto bubble and onboarding many new users in the process.
+NFTs are currently mostly understood through crypto art / media and was one of [2021's biggest stories](https://www.bbc.co.uk/news/technology-56362174), expanding the existing crypto bubble and onboarding many new users in the process.
 
 However until recently creators were still separated from the financial networks that their work creates by a first generation of platforms and galleries who operate in a Web2 manner, as gatekeepers, owning the creators' market and taking a cut. 
 
-Recent innovations from projects such as [Zora](https://zora.co) enable creators to mint both media and market into a [single asset](https://cryptomedia.wtf). 
-
-The arrival of creator owned marketplaces levels the playing field further but also supercharges an already individualistic and profit oriented crypto-culture that masks the real opportunity for a new generation of creative communities to share ownership in the emergent stories, shows and worlds they build together.
+The arrival of creator owned marketplaces levels the playing field further but also supercharges an already individualistic and profit oriented crypto-culture that masks the real opportunity for a new generation of creative communities to share ownership in the projects they build together.
 
 > We shouldn’t think of NFTs as tokenized digital content itself. A core insight is that NFTs are much better understood as encapsulating intellectual property rights to the assets they describe.
 >
@@ -119,7 +116,7 @@ Real value is not bought, it is built - by collective endeavours focused on long
 >  
 > [Decred website](https://decred.org/sustainability/)
 
-Decred is the first in what may well later be defined as the third generation of blockchains after Bitcoin and Ethereum. It is one of a new breed that is public owned, sustainably funded and transparently governed - with its primary 'use case', being the ongoing funding of open source technology. 
+Decred is the first in what may well later be defined as the third generation of blockchains after Bitcoin and Ethereum. It is one of a new breed that is publicly owned, sustainably funded and transparently governed - with its primary 'use case', being the ongoing funding of open source technology. 
 
 > For a while, skeptics asked what $DCR's raison d'être was...
 > 
@@ -127,36 +124,34 @@ Decred is the first in what may well later be defined as the third generation of
 > 
 > [Chris Burniske](https://twitter.com/cburniske/status/1362146222623002626)
 
-On-chain treasuries like Decred, Edgeware, Polkadot and Kusama now posess large public treasuries (hundreds millions of $$$) that are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of each community. 
+On-chain treasuries now posess large public treasuries in the [billions of $$$](https://deepdao.io). These treasuries are community owned and operated and are able to fund public goods, using their own native currencies to incentivise creative contributions that further the founding values of each community. 
 
-The challenge is no longer fundraising, these projects have enough capital to build for decades. The challenge is now sourcing, developing and delivering quality proposals. Twitter wars are still fought between communities over the question of whose chain is most scalable - whose transaction throughput might match Visa or Mastercard. For this new generation of chains this is important but not key. The big question now moves to one of social scalability, with the focus on the people delivering useful work on behalf of their common pool funding.
+The challenge is no longer fundraising, these projects have enough capital to build for decades. The challenge is now sourcing, developing and delivering quality proposals that can driven meaningful network adoption.
 
-When sustainable funding from community owned treasuries is matched to multi-signature wallets and open source community proposal platforms such as [Politeia](https://proposals.decred.org) and [Commonwealth](https://commonwealth.im) the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work.
+When sustainable funding from community owned treasuries is matched to multi-signature wallets and open source community proposal platforms the costs of coordination are reduced at both a local and global scale, removing many of the bureaucratic elements of existing organisations, enabling contributors to spend less time sourcing or managing stakeholders and more time contributing and being paid for useful work. 
+
+However today's blockchains have optimised for security, with assumptions focused on a _don't trust, verify_ mindset. This works well in an adversarial environment, however it works against the design of systems that aim to optimise for more experimental and human centric outcomes. 
+
+[Kusama's relay chain](https://kusama.network) design seeks to solve this conundrum - the protocol offers _security as a service_ to _application specific parachains_ who purchase slot, enabling them to optimise their design philosophies to be more optimistic in their foundational assumptions.  
 
 With this in place, the basic building blocks for global, decentralised and permissionless public service media are here.
-
-![metaDAO](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/metaDAO.png)
 
 -------------------
 
 ![decent1](https://github.com/Decent-Partners/Decent-overview/blob/main/assets/Background%20logo.png)
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the fund") that receives investment from chain treasuries.  
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs, organisations and networks ("the partners") who collectively contribute, manage and assign a common pool of resources including a dedicated fund ("the creator collective fund") that receives investment from external investors and chain treasuries.  
 
 Together these elements form the basic functions of a _[metaDAO](https://www.reddit.com/r/decred/comments/hxul33/metadao_pooling_onchain_funding_for_public_good/)_ - an entity designed to operate on a layer above the tribalism present in today's crypto-networks, diversifying both funding sources and community cultures. ("The MetaDAO").
 
-Decent's primary focus is the development of a full stack and multi-chain Web3 media ecosystem, delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
+Decent Partner's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
 
-Decent's mission is to inspire and empower collective action through the stories of a gobal network of creators, makers and builders who are challenging established thinking and introducing alternatives to existing systems. 
-
-Decent's vision is to reimagine public service broadcasting for a networked world.
+Decent Partner's vision is to reimagine public service broadcasting for a networked world.
 
 ### Funding
 
-The fund is initially drawn from public goods focused chain treasuries with wide token distributions such as [Edgeware](https://edgewa.re) to ensure ownership remains as [widely distributed](https://docs.edgewa.re/edgeware-runtime/lockdrop/gini-coefficient-of-edgeware) as possible.
-
-The funding request is for an initial £1m in EDG in return for value returned to the chain in a number of ways. 
+The fund is initially drawn from public goods focused chain treasuries within the Kusama and Polkadot ecosystem. 
 
 The ambition is to onboard other chain treasuries over time, leveraging not just their finances but their unique technological and cultural characteristics. 
 
@@ -170,9 +165,13 @@ Eventually we forsee this funding becoming a voluntary _ecosystem tax_ paid on a
 
 ### Proposals
 
-Prospective partners are funded directly via proposals ("the proposals") from the cooperative's fund. 
+Prospective partners are funded directly via proposals ("the proposals") from the cooperative's fund.
 
-The proposal process is managed using the [Commonwealth's interface](commonwealth.im/decent) enabling public debate and discussion.  
+The proposal process is managed using the [Root interface](https://github.com/stated-tech/Grants-Program/blob/master/applications/root.md)).
+
+### Identity 
+
+Contributors joining the network do not need to sign up to a full crypto-wallet, instead they are assigned a 'Seed' which is a non-fungible token. 
 
 ### Value capture 
 
